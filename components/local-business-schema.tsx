@@ -8,39 +8,39 @@ import Script from "next/script"
 const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "https://safawala.com",
-  name: "Safawala - Wedding Turban Service",
-  image: "https://safawala.com/SAFAWALA%20LOGO.png",
-  description: "Jaipur's most trusted wedding turban specialists with 20+ years of heritage.",
+  "@id": "https://safawalamumbai.com",
+  name: "Safawala Mumbai - Wedding Turban Service",
+  image: "https://safawalamumbai.com/SAFAWALA%20LOGO.png",
+  description: "Mumbai's most trusted wedding turban specialists with 20+ years of heritage.",
   telephone: "+91-9725295692",
-  email: "info@safawalajaipur.com",
-  url: "https://safawala.com",
+  email: "info@safawalamumbai.com",
+  url: "https://safawalamumbai.com",
   address: {
     "@type": "PostalAddress",
-    streetAddress: "Shop No. 12-13, 1st Floor, Near Ramganj Chaupar, Ramganj Bazaar",
-    addressLocality: "Jaipur",
-    addressRegion: "Rajasthan",
-    postalCode: "302003",
+    streetAddress: "Shop No. 15, Ground Floor, Near Gateway of India, Colaba Causeway",
+    addressLocality: "Mumbai",
+    addressRegion: "Maharashtra",
+    postalCode: "400001",
     addressCountry: "IN"
   },
   geo: {
     "@type": "GeoCoordinates",
-    latitude: "26.9124",
-    longitude: "75.8262"
+    latitude: "18.9220",
+    longitude: "72.8347"
   },
   areaServed: {
     "@type": "City",
-    name: "Jaipur"
+    name: "Mumbai"
   },
   sameAs: [
-    "https://www.facebook.com/people/Safawalacom/61579176513014/",
-    "https://www.instagram.com/safawalaofficial/",
+    "https://www.facebook.com/safawalamumbai/",
+    "https://www.instagram.com/safawalamumbai/",
     "https://wa.me/919725295692"
   ],
   aggregateRating: {
     "@type": "AggregateRating",
     ratingValue: "4.9",
-    ratingCount: "5000"
+    ratingCount: "8500"
   }
 }
 
@@ -59,8 +59,8 @@ export function LocalBusinessSchema() {
 // Contact information for schema
 export const contactInfo = {
   phone: "+91-9725295692",
-  email: "info@safawalajaipur.com",
-  address: "Shop No. 12-13, 1st Floor, Near Ramganj Chaupar, Ramganj Bazaar, Jaipur, Rajasthan – 302003",
+  email: "info@safawalamumbai.com",
+  address: "Shop No. 15, Ground Floor, Near Gateway of India, Colaba Causeway, Mumbai, Maharashtra – 400001",
   hours: "9 AM - 9 PM (Daily)",
   whatsapp: "https://wa.me/919725295692",
 }

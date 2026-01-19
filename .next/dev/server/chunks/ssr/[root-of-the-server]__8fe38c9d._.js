@@ -59,17 +59,19 @@ const __TURBOPACK__default__export__ = fontData;
 "use strict";
 
 /**
- * SEO Metadata and Structured Data for Safawala
- * Local SEO optimization for Jaipur wedding turban services
+ * SEO Metadata and Structured Data for Safawala Mumbai
+ * Local SEO optimization for Mumbai wedding turban services
  */ __turbopack_context__.s([
     "BREADCRUMB_SCHEMA",
     ()=>BREADCRUMB_SCHEMA,
     "FAQ_SCHEMA",
     ()=>FAQ_SCHEMA,
-    "JaiPURLocalizations",
-    ()=>JaiPURLocalizations,
     "LOCAL_BUSINESS_SCHEMA",
     ()=>LOCAL_BUSINESS_SCHEMA,
+    "MUMBAI_AREAS",
+    ()=>MUMBAI_AREAS,
+    "MumbaiLocalizations",
+    ()=>MumbaiLocalizations,
     "ORGANIZATION_SCHEMA",
     ()=>ORGANIZATION_SCHEMA,
     "PRODUCT_SCHEMA",
@@ -77,114 +79,112 @@ const __TURBOPACK__default__export__ = fontData;
     "generateServiceMetadata",
     ()=>generateServiceMetadata
 ]);
+const MUMBAI_AREAS = [
+    "South Mumbai",
+    "Colaba",
+    "Malabar Hill",
+    "Bandra West",
+    "Juhu",
+    "Andheri West",
+    "Breach Candy",
+    "Cuffe Parade",
+    "Nariman Point",
+    "Churchgate",
+    "Parel",
+    "Dadar West",
+    "Santacruz West",
+    "Powai",
+    "Vile Parle West",
+    "Khar West",
+    "Bandra East",
+    "Andheri East",
+    "Borivali West",
+    "Goregaon West",
+    "Thane West",
+    "Mulund West",
+    "Chembur",
+    "Kurla",
+    "Ghatkopar",
+    "Malad West",
+    "Kandivali West",
+    "Borivali East",
+    "Goregaon East",
+    "Kandivali East",
+    "Malad East",
+    "Sion",
+    "Matunga",
+    "Byculla",
+    "Cumballa Hill",
+    "Lower Parel",
+    "Bhandup",
+    "Mulund East",
+    "Kurla West",
+    "Ghatkopar East",
+    "Powai Hill",
+    "Vashi",
+    "Nerul",
+    "CBD Belapur",
+    "Kharghar",
+    "Panvel",
+    "Mumbai Central",
+    "Mumbai West",
+    "Mumbai East",
+    "Mumbai Suburbs"
+];
 const LOCAL_BUSINESS_SCHEMA = {
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "@id": "https://safawala.com",
-    name: "Safawala - Premium Wedding Turban Service Jaipur",
-    image: "https://safawala.com/SAFAWALA LOGO.png",
-    description: "Jaipur's most trusted wedding turban specialists with 20+ years of heritage. Expert safa, pagdi, feta & sehra tying for grooms and baraatis.",
-    url: "https://safawala.com",
+    "@id": "https://safawalamumbai.com",
+    name: "Safawala Mumbai - Premium Wedding Turban Service Mumbai",
+    image: "https://safawalamumbai.com/SAFAWALA LOGO.png",
+    description: "Mumbai's most trusted wedding turban specialists with 20+ years of heritage. Expert safa, pagdi, feta & sehra tying for grooms and baraatis across all Mumbai areas.",
+    url: "https://safawalamumbai.com",
     telephone: "+91-9725295692",
-    email: "info@safawalajaipur.com",
+    email: "info@safawalamumbai.com",
     alternateName: [
-        "Safawala Jaipur",
-        "Safawala Wedding Turbans",
-        "Pagdi Tying Jaipur",
-        "Safa Service Jaipur"
+        "Safawala Mumbai",
+        "Safawala Wedding Turbans Mumbai",
+        "Pagdi Tying Mumbai",
+        "Safa Service Mumbai",
+        "Turban Service Mumbai"
     ],
     address: {
         "@type": "PostalAddress",
-        streetAddress: "Shop No. 12-13, 1st Floor, Near Ramganj Chaupar, Ramganj Bazaar",
-        addressLocality: "Jaipur",
-        addressRegion: "Rajasthan",
-        postalCode: "302003",
+        streetAddress: "Shop No. 15, Ground Floor, Near Gateway of India, Colaba Causeway",
+        addressLocality: "Mumbai",
+        addressRegion: "Maharashtra",
+        postalCode: "400001",
         addressCountry: "IN"
     },
     geo: {
         "@type": "GeoCoordinates",
-        latitude: "26.9124",
-        longitude: "75.8262"
+        latitude: "18.9220",
+        longitude: "72.8347"
     },
-    priceRange: "₹500-₹3000",
+    priceRange: "₹500-₹5000",
     areaServed: [
         {
             "@type": "City",
-            name: "Jaipur",
-            areaServed: [
-                "C-Scheme",
-                "Vaishali Nagar",
-                "Mansarovar",
-                "Malviya Nagar",
-                "Jagatpura",
-                "Raja Park",
-                "Sindhi Camp",
-                "Civil Lines",
-                "Bani Park",
-                "Ajmer Road",
-                "Tonk Road",
-                "JLN Marg",
-                "Sanganer",
-                "Ganj Katla",
-                "Ashok Nagar",
-                "Ram Nagar",
-                "Kalyan Vihar",
-                "Vidhyadhar Nagar",
-                "Shyam Nagar",
-                "Pal Road",
-                "Bahubali",
-                "Bapu Nagar",
-                "Ganesh Mandi",
-                "Lal Kothi",
-                "Niwaru Road",
-                "Ramganj",
-                "Ramesh Nagar",
-                "Bijnor Road",
-                "Pratap Nagar",
-                "Mahavir Nagar",
-                "Chaura Rasta",
-                "Alwar Bypass",
-                "Amber Fort Area",
-                "Seven Hills",
-                "Four Seasons Valley",
-                "Clarks Amer",
-                "Nahargarh",
-                "Naila Fort"
-            ]
+            name: "Mumbai",
+            areaServed: MUMBAI_AREAS
         }
     ],
     serviceArea: {
         "@type": "City",
-        name: "Jaipur",
-        areaServed: [
-            "C-Scheme",
-            "Vaishali Nagar",
-            "Mansarovar",
-            "Malviya Nagar",
-            "Jagatpura",
-            "Raja Park",
-            "Sindhi Camp",
-            "Civil Lines",
-            "Bani Park",
-            "Ajmer Road",
-            "Tonk Road",
-            "JLN Marg",
-            "Sanganer",
-            "Ashok Nagar",
-            "Ram Nagar"
-        ]
+        name: "Mumbai",
+        areaServed: MUMBAI_AREAS
     },
     aggregateRating: {
         "@type": "AggregateRating",
         ratingValue: "4.9",
-        ratingCount: "5000",
+        ratingCount: "8500",
         bestRating: "5",
         worstRating: "1"
     },
-    hasMap: "https://maps.google.com/?q=Safawala+Jaipur",
+    hasMap: "https://maps.google.com/?q=Safawala+Mumbai+Colaba",
     sameAs: [
-        "https://www.facebook.com/people/Safawalacom/61579176513014/",
-        "https://www.instagram.com/safawalaofficial/",
+        "https://www.facebook.com/safawalamumbai/",
+        "https://www.instagram.com/safawalamumbai/",
         "https://wa.me/919725295692"
     ],
     foundingDate: "2004",
@@ -197,8 +197,10 @@ const LOCAL_BUSINESS_SCHEMA = {
         "Safa Tying",
         "Pagdi Design",
         "Rajasthani Turbans",
+        "Marathi Pheta",
         "Groom Styling",
-        "Traditional Turban Art"
+        "Traditional Turban Art",
+        "Wedding Sehra"
     ],
     opens: "09:00",
     closes: "21:00",
@@ -227,23 +229,24 @@ const LOCAL_BUSINESS_SCHEMA = {
 const ORGANIZATION_SCHEMA = {
     "@context": "https://schema.org",
     "@type": "Organization",
-    name: "Safawala",
-    url: "https://safawala.com",
-    logo: "https://safawala.com/SAFAWALA LOGO.png",
-    description: "Premium wedding turban service in Jaipur with 20+ years of heritage",
+    name: "Safawala Mumbai",
+    url: "https://safawalamumbai.com",
+    logo: "https://safawalamumbai.com/SAFAWALA LOGO.png",
+    description: "Premium wedding turban service in Mumbai with 20+ years of heritage serving all areas of Mumbai",
     sameAs: [
-        "https://www.facebook.com/people/Safawalacom/61579176513014/",
-        "https://www.instagram.com/safawalaofficial/"
+        "https://www.facebook.com/safawalamumbai/",
+        "https://www.instagram.com/safawalamumbai/"
     ],
     contactPoint: {
         "@type": "ContactPoint",
         contactType: "customer service",
         telephone: "+91-9725295692",
-        email: "info@safawalajaipur.com",
+        email: "info@safawalamumbai.com",
         areaServed: "IN",
         availableLanguage: [
             "hi",
-            "en"
+            "en",
+            "mr"
         ]
     }
 };
@@ -253,42 +256,42 @@ const FAQ_SCHEMA = {
     mainEntity: [
         {
             "@type": "Question",
-            name: "What is the best turban service in Jaipur?",
+            name: "What is the best turban service in Mumbai?",
             acceptedAnswer: {
                 "@type": "Answer",
-                text: "Safawala is Jaipur's most trusted turban service with 20+ years of heritage. We offer expert safa, pagdi, feta & sehra tying with master specialists."
+                text: "Safawala Mumbai is Mumbai's most trusted turban service with 20+ years of heritage. We offer expert safa, pagdi, feta & sehra tying with master specialists across all Mumbai areas including Colaba, Bandra, Juhu, Andheri, and more."
             }
         },
         {
             "@type": "Question",
-            name: "How much does turban tying service cost in Jaipur?",
+            name: "How much does turban tying service cost in Mumbai?",
             acceptedAnswer: {
                 "@type": "Answer",
-                text: "Our turban tying service ranges from ₹500-₹3000 depending on the type of turban, fabric, and complexity. We offer competitive pricing with premium quality."
+                text: "Our turban tying service in Mumbai ranges from ₹500-₹5000 depending on the type of turban, fabric, and complexity. We offer competitive pricing with premium quality for all Mumbai locations."
             }
         },
         {
             "@type": "Question",
-            name: "Do you provide same-day turban service in Jaipur?",
+            name: "Do you provide same-day turban service in Mumbai?",
             acceptedAnswer: {
                 "@type": "Answer",
-                text: "Yes, we provide same-day turban tying service across Jaipur. Contact us at +91-9725295692 or WhatsApp for instant booking."
+                text: "Yes, we provide same-day turban tying service across Mumbai including South Mumbai, Western Suburbs, Eastern Suburbs, and Navi Mumbai. Contact us at +91-9725295692 or WhatsApp for instant booking."
             }
         },
         {
             "@type": "Question",
-            name: "What areas of Jaipur do you serve?",
+            name: "What areas of Mumbai do you serve?",
             acceptedAnswer: {
                 "@type": "Answer",
-                text: "We serve all major areas of Jaipur including C-Scheme, Vaishali Nagar, Mansarovar, Raja Park, Civil Lines, Sanganer, and many more."
+                text: "We serve all major areas of Mumbai including Colaba, Bandra, Juhu, Andheri, Powai, Thane, Vashi, Navi Mumbai, Borivali, Goregaon, Malad, Kandivali, and all other areas."
             }
         },
         {
             "@type": "Question",
-            name: "Can you customize turban designs?",
+            name: "Can you customize turban designs in Mumbai?",
             acceptedAnswer: {
                 "@type": "Answer",
-                text: "Yes, we offer fully customized turban designs. Our specialists will work with you to create the perfect design matching your preferences and wedding theme."
+                text: "Yes, we offer fully customized turban designs in Mumbai. Our specialists will work with you to create the perfect design matching your preferences and wedding theme."
             }
         }
     ]
@@ -311,74 +314,53 @@ const PRODUCT_SCHEMA = (serviceName, serviceUrl, description, price)=>({
         description: description,
         provider: {
             "@type": "LocalBusiness",
-            name: "Safawala",
-            url: "https://safawala.com",
+            name: "Safawala Mumbai",
+            url: "https://safawalamumbai.com",
             telephone: "+91-9725295692"
         },
         areaServed: {
             "@type": "City",
-            name: "Jaipur"
+            name: "Mumbai"
         },
         priceRange: price,
         aggregateRating: {
             "@type": "AggregateRating",
             ratingValue: "4.9",
-            ratingCount: "5000"
+            ratingCount: "8500"
         }
     });
-const JaiPURLocalizations = {
-    jaipur: {
-        name: "Jaipur",
-        region: "Rajasthan",
+const MumbaiLocalizations = {
+    mumbai: {
+        name: "Mumbai",
+        region: "Maharashtra",
         country: "India",
-        neighborhoods: [
-            "C-Scheme",
-            "Vaishali Nagar",
-            "Mansarovar",
-            "Malviya Nagar",
-            "Jagatpura",
-            "Raja Park",
-            "Sindhi Camp",
-            "Civil Lines",
-            "Bani Park",
-            "Ajmer Road",
-            "Tonk Road",
-            "JLN Marg",
-            "Sanganer",
-            "Ganj Katla",
-            "Ashok Nagar",
-            "Ram Nagar",
-            "Kalyan Vihar",
-            "Vidhyadhar Nagar",
-            "Shyam Nagar",
-            "Pal Road"
-        ],
+        neighborhoods: MUMBAI_AREAS,
         landmarks: [
-            "Amber Fort",
-            "City Palace",
-            "Hawa Mahal",
-            "Jantar Mantar",
-            "Albert Hall"
+            "Gateway of India",
+            "Marine Drive",
+            "Bandra Worli Sea Link",
+            "Taj Mahal Palace",
+            "Siddhivinayak Temple"
         ]
     }
 };
 function generateServiceMetadata(serviceName, serviceDescription, keywords, slug) {
     return {
-        title: `${serviceName} in Jaipur | Expert Service | Safawala`,
-        description: `${serviceDescription} Get professional ${serviceName.toLowerCase()} service in Jaipur by Safawala. Experienced specialists, premium quality, same-day service available.`,
+        title: `${serviceName} in Mumbai | Expert Service | Safawala Mumbai`,
+        description: `${serviceDescription} Get professional ${serviceName.toLowerCase()} service in Mumbai by Safawala Mumbai. Experienced specialists, premium quality, same-day service available across all Mumbai areas.`,
         keywords: [
             ...keywords,
-            `${serviceName.toLowerCase()} jaipur`,
-            "wedding turban service",
-            "safa tying jaipur",
-            "pagdi service jaipur",
-            "groom styling jaipur",
-            "turban specialist jaipur"
+            `${serviceName.toLowerCase()} mumbai`,
+            "wedding turban service mumbai",
+            "safa tying mumbai",
+            "pagdi service mumbai",
+            "groom styling mumbai",
+            "turban specialist mumbai"
         ].join(", "),
         openGraph: {
-            title: `${serviceName} in Jaipur - Safawala Professional Service`,
-            description: `Expert ${serviceName.toLowerCase()} with master specialists. Same-day service, premium quality, all Jaipur areas.`,
-            url: `https://safawala.com/${slug}`,
+            title: `${serviceName} in Mumbai - Safawala Mumbai Professional Service`,
+            description: `Expert ${serviceName.toLowerCase()} with master specialists. Same-day service, premium quality, all Mumbai areas.`,
+            url: `https://safawalamumbai.com/${slug}`,
             type: "website"
         }
     };
@@ -407,16 +389,16 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$lib$2f$seo$2d$metadata$2e$ts
 ;
 ;
 const metadata = {
-    title: "Premium Wedding Turbans in Jaipur | Safawala Safa & Pagdi Services | Expert Service",
-    description: "Safawala - Jaipur's most trusted wedding turban specialists since 2004. Expert safa, pagdi, feta & sehra tying. Master specialists, same-day service, all Jaipur areas. Free consultation. Book now: +91-9725295692",
-    keywords: "wedding turban Jaipur, safa Jaipur, pagdi tying service, groom turban, Rajasthani turban, wedding safa, turban tying Jaipur, best turban service Jaipur, safa tying service, pagdi design, feta tying, sehra, barati safa, groom styling Jaipur, turban specialist, traditional turban, custom wedding turban, turban tying near me, wedding turban price, turban on rent, destination wedding turban, turban booking Jaipur, same day turban service",
+    title: "Premium Wedding Turbans in Mumbai | Safawala Mumbai Safa & Pagdi Services | Expert Service",
+    description: "Safawala Mumbai - Mumbai's most trusted wedding turban specialists since 2004. Expert safa, pagdi, feta & sehra tying. Master specialists, same-day service, all Mumbai areas. Free consultation. Book now: +91-9725295692",
+    keywords: "wedding turban Mumbai, safa Mumbai, pagdi tying service Mumbai, groom turban Mumbai, wedding safa Mumbai, turban tying Mumbai, best turban service Mumbai, safa tying service Mumbai, pagdi design Mumbai, feta tying Mumbai, sehra Mumbai, barati safa Mumbai, groom styling Mumbai, turban specialist Mumbai, traditional turban Mumbai, custom wedding turban Mumbai, turban tying near me Mumbai, wedding turban price Mumbai, turban on rent Mumbai, destination wedding turban Mumbai, turban booking Mumbai, same day turban service Mumbai",
     authors: [
         {
-            name: "Safawala Wedding Turbans Jaipur"
+            name: "Safawala Mumbai Wedding Turbans"
         }
     ],
-    creator: "Safawala Wedding Turbans",
-    publisher: "Safawala Wedding Turbans",
+    creator: "Safawala Mumbai Wedding Turbans",
+    publisher: "Safawala Mumbai Wedding Turbans",
     icons: {
         icon: "/image.png",
         shortcut: "/image.png",
@@ -427,39 +409,40 @@ const metadata = {
         address: true,
         telephone: true
     },
-    metadataBase: new URL("https://safawala.com"),
+    metadataBase: new URL("https://safawalamumbai.com"),
     alternates: {
-        canonical: "https://safawala.com",
+        canonical: "https://safawalamumbai.com",
         languages: {
-            "hi-IN": "https://safawala.com/hi",
-            "en-IN": "https://safawala.com/en"
+            "hi-IN": "https://safawalamumbai.com/hi",
+            "en-IN": "https://safawalamumbai.com/en",
+            "mr-IN": "https://safawalamumbai.com/mr"
         }
     },
     openGraph: {
-        title: "Premium Wedding Turbans in Jaipur | Safawala Professional Service",
-        description: "Expert safa, pagdi, feta & sehra tying for grooms, baraatis & destination weddings. Master specialists, same-day service, all Jaipur areas covered.",
-        url: "https://safawala.com",
-        siteName: "Safawala Wedding Turbans Jaipur",
+        title: "Premium Wedding Turbans in Mumbai | Safawala Mumbai Professional Service",
+        description: "Expert safa, pagdi, feta & sehra tying for grooms, baraatis & destination weddings. Master specialists, same-day service, all Mumbai areas covered.",
+        url: "https://safawalamumbai.com",
+        siteName: "Safawala Mumbai Wedding Turbans",
         locale: "en_IN",
         type: "website",
         images: [
             {
-                url: "https://safawala.com/SAFAWALA%20LOGO.png",
+                url: "https://safawalamumbai.com/SAFAWALA%20LOGO.png",
                 width: 1200,
                 height: 630,
-                alt: "Safawala - Premium Wedding Turbans & Safa Service in Jaipur",
+                alt: "Safawala Mumbai - Premium Wedding Turbans & Safa Service in Mumbai",
                 type: "image/png"
             }
         ]
     },
     twitter: {
         card: "summary_large_image",
-        title: "Safawala - Wedding Turbans Jaipur | Expert Safa & Pagdi Service",
-        description: "20+ years of heritage. Master specialists, same-day service, premium quality, all Jaipur areas.",
+        title: "Safawala Mumbai - Wedding Turbans Mumbai | Expert Safa & Pagdi Service",
+        description: "20+ years of heritage. Master specialists, same-day service, premium quality, all Mumbai areas.",
         images: [
-            "https://safawala.com/SAFAWALA%20LOGO.png"
+            "https://safawalamumbai.com/SAFAWALA%20LOGO.png"
         ],
-        creator: "@safawalaofficial"
+        creator: "@safawalamumbai"
     },
     robots: {
         index: true,
@@ -478,12 +461,12 @@ const metadata = {
         yandex: "your-yandex-verification-code"
     },
     category: "Wedding Services",
-    classification: "Wedding Turban & Safa Service",
-    applicationName: "Safawala Wedding Turbans",
+    classification: "Wedding Turban & Safa Service Mumbai",
+    applicationName: "Safawala Mumbai Wedding Turbans",
     appleWebApp: {
         capable: true,
         statusBarStyle: "black-translucent",
-        title: "Safawala Wedding Turbans"
+        title: "Safawala Mumbai Wedding Turbans"
     },
     generator: "Next.js"
 };
@@ -500,7 +483,7 @@ function RootLayout({ children }) {
                         type: "image/png"
                     }, void 0, false, {
                         fileName: "[project]/app/layout.tsx",
-                        lineNumber: 108,
+                        lineNumber: 109,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
@@ -509,7 +492,7 @@ function RootLayout({ children }) {
                         type: "image/png"
                     }, void 0, false, {
                         fileName: "[project]/app/layout.tsx",
-                        lineNumber: 109,
+                        lineNumber: 110,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
@@ -517,7 +500,7 @@ function RootLayout({ children }) {
                         href: "/image.png?v=1"
                     }, void 0, false, {
                         fileName: "[project]/app/layout.tsx",
-                        lineNumber: 110,
+                        lineNumber: 111,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
@@ -525,7 +508,7 @@ function RootLayout({ children }) {
                         content: "#8b1a1a"
                     }, void 0, false, {
                         fileName: "[project]/app/layout.tsx",
-                        lineNumber: 111,
+                        lineNumber: 112,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
@@ -533,7 +516,7 @@ function RootLayout({ children }) {
                         content: "your-google-verification-code"
                     }, void 0, false, {
                         fileName: "[project]/app/layout.tsx",
-                        lineNumber: 114,
+                        lineNumber: 115,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
@@ -541,7 +524,7 @@ function RootLayout({ children }) {
                         content: "your-bing-verification-code"
                     }, void 0, false, {
                         fileName: "[project]/app/layout.tsx",
-                        lineNumber: 115,
+                        lineNumber: 116,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$script$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -552,7 +535,7 @@ function RootLayout({ children }) {
                         }
                     }, void 0, false, {
                         fileName: "[project]/app/layout.tsx",
-                        lineNumber: 118,
+                        lineNumber: 119,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$script$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -563,7 +546,7 @@ function RootLayout({ children }) {
                         }
                     }, void 0, false, {
                         fileName: "[project]/app/layout.tsx",
-                        lineNumber: 125,
+                        lineNumber: 126,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$script$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -574,7 +557,7 @@ function RootLayout({ children }) {
                         }
                     }, void 0, false, {
                         fileName: "[project]/app/layout.tsx",
-                        lineNumber: 132,
+                        lineNumber: 133,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
@@ -582,7 +565,7 @@ function RootLayout({ children }) {
                         href: "https://fonts.googleapis.com"
                     }, void 0, false, {
                         fileName: "[project]/app/layout.tsx",
-                        lineNumber: 139,
+                        lineNumber: 140,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
@@ -591,7 +574,7 @@ function RootLayout({ children }) {
                         crossOrigin: "anonymous"
                     }, void 0, false, {
                         fileName: "[project]/app/layout.tsx",
-                        lineNumber: 140,
+                        lineNumber: 141,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
@@ -599,13 +582,13 @@ function RootLayout({ children }) {
                         href: "https://www.google-analytics.com"
                     }, void 0, false, {
                         fileName: "[project]/app/layout.tsx",
-                        lineNumber: 141,
+                        lineNumber: 142,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/layout.tsx",
-                lineNumber: 107,
+                lineNumber: 108,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("body", {
@@ -614,19 +597,19 @@ function RootLayout({ children }) {
                     children,
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f40$vercel$2b$analytics$40$1$2e$3$2e$1_next$40$16$2e$0$2e$10_react$2d$dom$40$19$2e$2$2e$0_react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0_$5f$react$40$19$2e$2$2e$0$2f$node_modules$2f40$vercel$2f$analytics$2f$dist$2f$next$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Analytics"], {}, void 0, false, {
                         fileName: "[project]/app/layout.tsx",
-                        lineNumber: 145,
+                        lineNumber: 146,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/app/layout.tsx",
-                lineNumber: 143,
+                lineNumber: 144,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/app/layout.tsx",
-        lineNumber: 106,
+        lineNumber: 107,
         columnNumber: 5
     }, this);
 }

@@ -201,7 +201,7 @@ export function ServicePageTemplate({
       {/* Service Areas Section */}
       <section className="py-16 bg-white">
         <div className="container mx-auto px-4">
-          <h2 className="text-4xl font-bold mb-12 text-center text-primary">Service Areas in Jaipur</h2>
+          <h2 className="text-4xl font-bold mb-12 text-center text-primary">Service Areas in Mumbai</h2>
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             {areas.map((area, index) => (
               <div key={index} className="flex items-center gap-3 bg-accent/10 p-4 rounded-lg">
@@ -238,7 +238,7 @@ export function ServicePageTemplate({
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-4xl font-bold mb-6">Ready to Book Your {title}?</h2>
           <p className="text-xl mb-8 text-white/90">
-            Contact Safawala today for the most professional turban tying service in Jaipur
+            Contact Safawala Mumbai today for the most professional turban tying service in Mumbai
           </p>
           <div className="flex gap-4 justify-center flex-wrap">
             <Button className="bg-accent hover:bg-secondary text-black px-8 py-6 text-lg">
@@ -289,7 +289,7 @@ export function ServicePageTemplate({
                       name="city"
                       value={formData.city}
                       onChange={handleFormChange}
-                      placeholder="e.g., Jaipur, Udaipur, Delhi"
+                      placeholder="e.g., Mumbai, Thane, Navi Mumbai"
                       className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-accent"
                     />
                   </div>

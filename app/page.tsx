@@ -16,7 +16,7 @@ export default function Home() {
       <ContactForm />
       <GallerySection />
       <ServicesSection />
-      <Footer />
+      <Footer hideMainNavigation={true} />
       <WhatsAppFloat />
     </main>
   )

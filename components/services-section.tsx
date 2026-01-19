@@ -10,30 +10,30 @@ export function ServicesSection() {
     {
       title: "Wedding Safa Tying",
       description: "Professional traditional safa tying for grooms and wedding guests",
-      href: "/wedding-safa-tying-in-jaipur",
+      href: "/wedding-safa-in-mumbai",
       icon: Crown,
-      seoTitle: "Expert Wedding Safa Tying Service in Jaipur",
+      seoTitle: "Expert Wedding Safa Tying Service in Mumbai",
     },
     {
       title: "Groom Styling",
       description: "Complete groom appearance with pagdi, sehra, and feta coordination",
-      href: "/groom-pagdi-tying-service-jaipur",
+      href: "/groom-safa-in-mumbai",
       icon: Award,
-      seoTitle: "Professional Groom Pagdi Tying Service in Jaipur",
+      seoTitle: "Professional Groom Pagdi Tying Service in Mumbai",
     },
     {
       title: "Group Services",
       description: "Professional turban service for barati and guest groups",
-      href: "/barati-safa-pagdi-jaipur",
+      href: "/barati-safa-in-mumbai",
       icon: Users,
-      seoTitle: "Barati Safa Pagdi Service for Groups in Jaipur",
+      seoTitle: "Barati Safa Pagdi Service for Groups in Mumbai",
     },
     {
       title: "Designer Safas",
       description: "Bespoke custom turban designs for trend-setting grooms",
-      href: "/designer-wedding-safa-jaipur",
+      href: "/designer-safa-in-mumbai",
       icon: Zap,
-      seoTitle: "Designer Wedding Safa Service in Jaipur",
+      seoTitle: "Designer Wedding Safa Service in Mumbai",
     },
   ]
 
@@ -45,7 +45,7 @@ export function ServicesSection() {
       "@type": "ListItem",
       position: index + 1,
       name: service.title,
-      url: `https://safawala.com${service.href}`,
+      url: `https://safawalamumbai.com${service.href}`,
       description: service.description,
     })),
   }
@@ -62,14 +62,14 @@ export function ServicesSection() {
           {/* Section Header with Enhanced SEO */}
           <div className="text-center mb-16">
             <h1 className="text-5xl font-bold text-primary mb-4" itemProp="name">
-              Premium Wedding Turban Services in Jaipur
+              Premium Wedding Turban Services in Mumbai
             </h1>
             <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed" itemProp="description">
-              Safawala offers a comprehensive range of professional turban tying services for all your wedding needs across Jaipur. 
+              Safawala Mumbai offers a comprehensive range of professional turban tying services for all your wedding needs across Mumbai. 
               From traditional Rajasthani designs to contemporary styles, our master specialists provide expert safa, pagdi, feta & sehra tying. 
-              Same-day service available in C-Scheme, Vaishali Nagar, Mansarovar, Raja Park, Civil Lines, and all major areas of Jaipur.
+              Same-day service available in South Mumbai, Bandra, Juhu, Andheri, Thane, Navi Mumbai, and all major areas of Mumbai.
             </p>
-            <meta itemProp="areaServed" content="Jaipur, Rajasthan, India" />
+            <meta itemProp="areaServed" content="Mumbai, Maharashtra, India" />
             <meta itemProp="serviceType" content="Wedding Turban Tying Service" />
             <meta itemProp="telephone" content="+91-9725295692" />
           </div>
@@ -94,8 +94,8 @@ export function ServicesSection() {
                     <p className="text-gray-600 mb-6 text-sm leading-relaxed" itemProp="description">
                       {service.description}
                     </p>
-                    <meta itemProp="areaServed" content="Jaipur" />
-                    <meta itemProp="url" content={`https://safawala.com${service.href}`} />
+                    <meta itemProp="areaServed" content="Mumbai" />
+                    <meta itemProp="url" content={`https://safawalamumbai.com${service.href}`} />
                     <div className="flex items-center text-accent font-semibold group">
                       Learn More
                       <ArrowRight className="w-4 h-4 ml-2 group-hover:translate-x-2 transition-transform" aria-hidden="true" />
@@ -109,21 +109,21 @@ export function ServicesSection() {
           {/* Content Section with Enhanced Local SEO */}
           <div className="bg-secondary/10 rounded-lg p-12">
             <div className="max-w-4xl mx-auto">
-              <h2 className="text-3xl font-bold text-primary mb-6">Jaipur's Most Trusted Turban Specialists - Since 2004</h2>
+              <h2 className="text-3xl font-bold text-primary mb-6">Mumbai's Most Trusted Turban Specialists - Since 2004</h2>
 
               <div className="prose prose-lg text-gray-700 space-y-4 mb-8">
                 <p>
-                  At <strong>Safawala</strong>, we believe that every wedding is a celebration of love, tradition, and heritage. Your turban is not just a piece of clothing—it's a representation of your cultural pride, your status, and your identity. For over <strong>20 years, we have been Jaipur's most trusted partner</strong> in creating perfect turban moments that last a lifetime.
+                  At <strong>Safawala Mumbai</strong>, we believe that every wedding is a celebration of love, tradition, and heritage. Your turban is not just a piece of clothing—it's a representation of your cultural pride, your status, and your identity. For over <strong>20 years, we have been Mumbai's most trusted partner</strong> in creating perfect turban moments that last a lifetime.
                 </p>
 
                 <p>
-                  Our journey began in <strong>2004</strong> with a simple mission: to preserve the authentic art of Rajasthani turban tying while providing the highest quality service to every client. Over the years, we've evolved into a full-service turban styling company, serving <strong>grooms, families, and guests across Jaipur and beyond</strong>. Our success is measured not just in numbers, but in the smiling faces of satisfied customers and the countless positive reviews we receive.
+                  Our journey began in <strong>2004</strong> with a simple mission: to preserve the authentic art of traditional turban tying while providing the highest quality service to every client. Over the years, we've evolved into a full-service turban styling company, serving <strong>grooms, families, and guests across Mumbai and beyond</strong>. Our success is measured not just in numbers, but in the smiling faces of satisfied customers and the countless positive reviews we receive.
                 </p>
 
-                <h3 className="text-2xl font-bold text-primary mt-8">Why Choose Safawala for Turban Services in Jaipur?</h3>
+                <h3 className="text-2xl font-bold text-primary mt-8">Why Choose Safawala Mumbai for Turban Services?</h3>
 
                 <p>
-                  <strong>Expert Master Specialists:</strong> Our team consists of master turban specialists with 15-25 years of individual experience. They have perfected traditional Rajasthani turban tying techniques and understand the nuances of different regional styles. Whether you want an authentic Jaipur pagdi, a Jodhpur turban, or a modern fusion design, our experts can create it perfectly. All our specialists are available across all major Jaipur areas including C-Scheme, Vaishali Nagar, Mansarovar, Malviya Nagar, Raja Park, Civil Lines, Sanganer, and more.
+                  <strong>Expert Master Specialists:</strong> Our team consists of master turban specialists with 15-25 years of individual experience. They have perfected traditional turban tying techniques and understand the nuances of different regional styles. Whether you want a Rajasthani pagdi, a Marathi pheta, a Gujarati safa, or a modern fusion design, our experts can create it perfectly. All our specialists are available across all major Mumbai areas including South Mumbai, Bandra, Juhu, Andheri, Powai, Thane, Navi Mumbai, and more.
                 </p>
 
                 <p>
@@ -131,11 +131,11 @@ export function ServicesSection() {
                 </p>
 
                 <p>
-                  <strong>Premium Quality & Customization:</strong> We work with premium fabrics including silk, designer brocades, and hand-embroidered materials. Every turban is customized to match your preferences, wedding theme, and personal style. We offer unlimited consultations to ensure perfect satisfaction. Our pricing is competitive, ranging from ₹500-₹3000 depending on complexity.
+                  <strong>Premium Quality & Customization:</strong> We work with premium fabrics including silk, designer brocades, and hand-embroidered materials. Every turban is customized to match your preferences, wedding theme, and personal style. We offer unlimited consultations to ensure perfect satisfaction. Our pricing is competitive, ranging from ₹500-₹5000 depending on complexity.
                 </p>
 
                 <p>
-                  <strong>Professional & Punctual:</strong> Your wedding schedule is tight, and we respect that. Our specialists arrive on time, work efficiently, and ensure you're ready when you need to be. We're known in the Jaipur wedding industry for our reliability and professional conduct. Same-day service is available across all Jaipur neighborhoods.
+                  <strong>Professional & Punctual:</strong> Your wedding schedule is tight, and we respect that. Our specialists arrive on time, work efficiently, and ensure you're ready when you need to be. We're known in the Mumbai wedding industry for our reliability and professional conduct. Same-day service is available across all Mumbai neighborhoods.
                 </p>
 
                 <h3 className="text-2xl font-bold text-primary mt-8">Our Service Philosophy</h3>
@@ -148,34 +148,37 @@ export function ServicesSection() {
                   Every client receives personalized attention. Whether you're getting a simple traditional turban or an elaborate designer creation, you receive the same high level of expertise and care. We adjust our approach based on your needs—some clients want classical authenticity, others want modern innovation, and some want a beautiful blend of both.
                 </p>
 
-                <h3 className="text-2xl font-bold text-primary mt-8">Serving All Areas of Jaipur & Rajasthan</h3>
+                <h3 className="text-2xl font-bold text-primary mt-8">Serving All Areas of Mumbai & Maharashtra</h3>
 
                 <p>
-                  Our professional turban service is available across all major areas of Jaipur including:
+                  Our professional turban service is available across all major areas of Mumbai including:
                 </p>
                 <p className="text-sm">
-                  <strong>Central Jaipur:</strong> C-Scheme, Civil Lines, Bani Park, Raja Park, Sindhi Camp, JLN Marg
+                  <strong>South Mumbai:</strong> Colaba, Cuffe Parade, Nariman Point, Churchgate, Malabar Hill, Breach Candy
                 </p>
                 <p className="text-sm">
-                  <strong>East Jaipur:</strong> Vaishali Nagar, Vidhyadhar Nagar, Shyam Nagar, Kalyan Vihar
+                  <strong>Western Suburbs:</strong> Bandra, Juhu, Andheri, Khar, Santacruz, Vile Parle, Goregaon, Malad, Borivali
                 </p>
                 <p className="text-sm">
-                  <strong>South Jaipur:</strong> Mansarovar, Malviya Nagar, Jagatpura, Ajmer Road, Tonk Road
+                  <strong>Central Mumbai:</strong> Parel, Dadar, Worli, Lower Parel, Matunga
                 </p>
                 <p className="text-sm">
-                  <strong>Other Areas:</strong> Sanganer, Ashok Nagar, Ram Nagar, Pal Road, Bapu Nagar, Ganesh Mandi, Niwaru Road, Ramganj, Alwar Bypass, Amber Fort Area
+                  <strong>Eastern Suburbs:</strong> Powai, Chembur, Ghatkopar, Mulund, Kurla
                 </p>
                 <p className="text-sm">
-                  We also serve <strong>destination weddings</strong> across India. No matter where your celebration is, Safawala is ready to serve you with the same quality and professionalism.
+                  <strong>Extended Mumbai:</strong> Thane, Navi Mumbai (Vashi, Nerul, Kharghar, Panvel), Kalyan-Dombivli
+                </p>
+                <p className="text-sm">
+                  We also serve <strong>destination weddings</strong> across India. No matter where your celebration is, Safawala Mumbai is ready to serve you with the same quality and professionalism.
                 </p>
 
                 <p>
-                  Contact us today to book your perfect turban experience. Whether you're planning a grand wedding or a small family celebration, <strong>Safawala is your trusted partner</strong> in creating beautiful, memorable moments. Call us at <strong>+91-9725295692</strong>, WhatsApp us, or visit us in person—our team is always ready to help you look your absolute best!
+                  Contact us today to book your perfect turban experience. Whether you're planning a grand wedding or a small family celebration, <strong>Safawala Mumbai is your trusted partner</strong> in creating beautiful, memorable moments. Call us at <strong>+91-9725295692</strong>, WhatsApp us, or visit us in person—our team is always ready to help you look your absolute best!
                 </p>
               </div>
 
               <div className="flex gap-4 flex-wrap justify-center mt-8">
-                <Link href="/wedding-turban-styling-services-jaipur">
+                <Link href="/safa-in-mumbai">
                   <Button className="bg-primary hover:bg-primary/90 text-white px-8 py-6 text-lg">
                     View All Services
                     <ArrowRight className="w-5 h-5 ml-2" aria-hidden="true" />

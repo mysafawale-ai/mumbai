@@ -99,7 +99,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "/Applications/Jaipur",
+    "outputFileTracingRoot": "/Applications/Safawala Mumbai",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -289,11 +289,11 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs",
     "turbopack": {
-      "root": "/Applications/Jaipur"
+      "root": "/Applications/Safawala Mumbai"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "/Applications/Jaipur",
+  "appDir": "/Applications/Safawala Mumbai",
   "relativeAppDir": "",
   "files": [
     ".next/routes-manifest.json",

@@ -7,6 +7,152 @@ interface FooterProps {
   hideMainNavigation?: boolean
 }
 
+// Mumbai Areas
+const MUMBAI_AREAS = [
+  { name: "South Mumbai", slug: "south-mumbai" },
+  { name: "Colaba", slug: "colaba" },
+  { name: "Malabar Hill", slug: "malabar-hill" },
+  { name: "Bandra West", slug: "bandra-west" },
+  { name: "Juhu", slug: "juhu" },
+  { name: "Andheri West", slug: "andheri-west" },
+  { name: "Breach Candy", slug: "breach-candy" },
+  { name: "Cuffe Parade", slug: "cuffe-parade" },
+  { name: "Nariman Point", slug: "nariman-point" },
+  { name: "Churchgate", slug: "churchgate" },
+  { name: "Parel", slug: "parel" },
+  { name: "Dadar West", slug: "dadar-west" },
+  { name: "Santacruz West", slug: "santacruz-west" },
+  { name: "Powai", slug: "powai" },
+  { name: "Vile Parle West", slug: "vile-parle-west" },
+  { name: "Khar West", slug: "khar-west" },
+  { name: "Bandra East", slug: "bandra-east" },
+  { name: "Andheri East", slug: "andheri-east" },
+  { name: "Borivali West", slug: "borivali-west" },
+  { name: "Goregaon West", slug: "goregaon-west" },
+  { name: "Thane West", slug: "thane-west" },
+  { name: "Mulund West", slug: "mulund-west" },
+  { name: "Chembur", slug: "chembur" },
+  { name: "Kurla", slug: "kurla" },
+  { name: "Ghatkopar", slug: "ghatkopar" },
+  { name: "Malad West", slug: "malad-west" },
+  { name: "Kandivali West", slug: "kandivali-west" },
+  { name: "Borivali East", slug: "borivali-east" },
+  { name: "Goregaon East", slug: "goregaon-east" },
+  { name: "Kandivali East", slug: "kandivali-east" },
+  { name: "Malad East", slug: "malad-east" },
+  { name: "Sion", slug: "sion" },
+  { name: "Matunga", slug: "matunga" },
+  { name: "Byculla", slug: "byculla" },
+  { name: "Cumballa Hill", slug: "cumballa-hill" },
+  { name: "Lower Parel", slug: "lower-parel" },
+  { name: "Bhandup", slug: "bhandup" },
+  { name: "Mulund East", slug: "mulund-east" },
+  { name: "Kurla West", slug: "kurla-west" },
+  { name: "Ghatkopar East", slug: "ghatkopar-east" },
+  { name: "Powai Hill", slug: "powai-hill" },
+  { name: "Vashi", slug: "vashi" },
+  { name: "Nerul", slug: "nerul" },
+  { name: "CBD Belapur", slug: "cbd-belapur" },
+  { name: "Kharghar", slug: "kharghar" },
+  { name: "Panvel", slug: "panvel" },
+  { name: "Mumbai Central", slug: "mumbai-central" },
+  { name: "Mumbai West", slug: "mumbai-west" },
+  { name: "Mumbai East", slug: "mumbai-east" },
+  { name: "Mumbai Suburbs", slug: "mumbai-suburbs" },
+]
+
+// Service Keywords Links
+const SERVICE_KEYWORDS = [
+  // Core Safa / Pagdi / Turban
+  { name: "Safa in Mumbai", slug: "safa-in-mumbai" },
+  { name: "Pagdi in Mumbai", slug: "pagdi-in-mumbai" },
+  { name: "Pagri in Mumbai", slug: "pagri-in-mumbai" },
+  { name: "Pagadi in Mumbai", slug: "pagadi-in-mumbai" },
+  { name: "Paghdi in Mumbai", slug: "paghdi-in-mumbai" },
+  { name: "Turban in Mumbai", slug: "turban-in-mumbai" },
+  { name: "Feta in Mumbai", slug: "feta-in-mumbai" },
+  // Wedding & Groom Focus
+  { name: "Wedding Safa in Mumbai", slug: "wedding-safa-in-mumbai" },
+  { name: "Safa for Groom in Mumbai", slug: "safa-for-groom-in-mumbai" },
+  { name: "Groom Safa in Mumbai", slug: "groom-safa-in-mumbai" },
+  { name: "Groom Turban in Mumbai", slug: "groom-turban-in-mumbai" },
+  { name: "Wedding Turban in Mumbai", slug: "wedding-turban-in-mumbai" },
+  { name: "Wedding Pagdi in Mumbai", slug: "wedding-pagdi-in-mumbai" },
+  { name: "Wedding Pagri in Mumbai", slug: "wedding-pagri-in-mumbai" },
+  { name: "Pagdi for Wedding in Mumbai", slug: "pagdi-for-wedding-in-mumbai" },
+  { name: "Pagdi for Marriage in Mumbai", slug: "pagdi-for-marriage-in-mumbai" },
+  { name: "Marriage Pagdi in Mumbai", slug: "marriage-pagdi-in-mumbai" },
+  { name: "Dulha Safa in Mumbai", slug: "dulha-safa-in-mumbai" },
+  { name: "Dulha Pagdi in Mumbai", slug: "dulha-pagdi-in-mumbai" },
+  { name: "Dulha Pagri in Mumbai", slug: "dulha-pagri-in-mumbai" },
+  { name: "Dulhe Ki Pagdi in Mumbai", slug: "dulhe-ki-pagdi-in-mumbai" },
+  { name: "Indian Dulha Turban in Mumbai", slug: "indian-dulha-turban-in-mumbai" },
+  { name: "Royal Wedding Turban for Groom in Mumbai", slug: "royal-wedding-turban-for-groom-in-mumbai" },
+  { name: "Luxury Wedding Turban in Mumbai", slug: "luxury-wedding-turban-in-mumbai" },
+  { name: "Traditional Wedding Safa in Mumbai", slug: "traditional-wedding-safa-in-mumbai" },
+  { name: "Designer Wedding Safa in Mumbai", slug: "designer-wedding-safa-in-mumbai" },
+  { name: "Custom Wedding Safa in Mumbai", slug: "custom-wedding-safa-in-mumbai" },
+  { name: "Premium Pagdi with Kalgi in Mumbai", slug: "premium-pagdi-with-kalgi-in-mumbai" },
+  // Regional / Style Based
+  { name: "Rajasthani Safa in Mumbai", slug: "rajasthani-safa-in-mumbai" },
+  { name: "Rajasthani Wedding Safa in Mumbai", slug: "rajasthani-wedding-safa-in-mumbai" },
+  { name: "Jodhpuri Safa in Mumbai", slug: "jodhpuri-safa-in-mumbai" },
+  { name: "Jodhpuri Pagdi in Mumbai", slug: "jodhpuri-pagdi-in-mumbai" },
+  { name: "Jodhpuri Pagri in Mumbai", slug: "jodhpuri-pagri-in-mumbai" },
+  { name: "Jodhpuri Safa for Groom in Mumbai", slug: "jodhpuri-safa-for-groom-in-mumbai" },
+  { name: "Jodhpuri Safa for Wedding in Mumbai", slug: "jodhpuri-safa-for-wedding-in-mumbai" },
+  { name: "Jodhpuri Safa Design in Mumbai", slug: "jodhpuri-safa-design-in-mumbai" },
+  { name: "Rajputi Safa in Mumbai", slug: "rajputi-safa-in-mumbai" },
+  { name: "Rajputi Safa Design in Mumbai", slug: "rajputi-safa-design-in-mumbai" },
+  { name: "Rajput Pagdi in Mumbai", slug: "rajput-pagdi-in-mumbai" },
+  { name: "Rajwadi Safa in Mumbai", slug: "rajwadi-safa-in-mumbai" },
+  { name: "Rajwadi Pagdi in Mumbai", slug: "rajwadi-pagdi-in-mumbai" },
+  { name: "Marwadi Safa in Mumbai", slug: "marwadi-safa-in-mumbai" },
+  { name: "Gujarati Pagdi in Mumbai", slug: "gujarati-pagdi-in-mumbai" },
+  { name: "Maharaja Safa in Mumbai", slug: "maharaja-safa-in-mumbai" },
+  { name: "Marathi Pheta in Mumbai", slug: "marathi-pheta-in-mumbai" },
+  { name: "Punjabi Turban in Mumbai", slug: "punjabi-turban-in-mumbai" },
+  // Barati / Group Use
+  { name: "Safa for Barati in Mumbai", slug: "safa-for-barati-in-mumbai" },
+  { name: "Wedding Safa for Barati in Mumbai", slug: "wedding-safa-for-barati-in-mumbai" },
+  { name: "Safa Design for Barati in Mumbai", slug: "safa-design-for-barati-in-mumbai" },
+  { name: "Wedding Turban for Barati in Mumbai", slug: "wedding-turban-for-barati-in-mumbai" },
+  { name: "Mens Wedding Turban in Mumbai", slug: "mens-wedding-turban-in-mumbai" },
+  // Rental / Service Based
+  { name: "Safa on Rent in Mumbai", slug: "safa-on-rent-in-mumbai" },
+  { name: "Wedding Safa on Rent in Mumbai", slug: "wedding-safa-on-rent-in-mumbai" },
+  { name: "Barati Safa on Rent in Mumbai", slug: "barati-safa-on-rent-in-mumbai" },
+  { name: "Safa on Rent Near Me in Mumbai", slug: "safa-on-rent-near-me-in-mumbai" },
+  { name: "Barati Safa Online in Mumbai", slug: "barati-safa-online-in-mumbai" },
+  { name: "Hand Tied Safa Rental Near Me in Mumbai", slug: "hand-tied-safa-rental-near-me-in-mumbai" },
+  { name: "Heritage Feta Turban Hire in Mumbai", slug: "heritage-feta-turban-hire-in-mumbai" },
+  { name: "Safa Tying Service in Mumbai", slug: "safa-tying-service-in-mumbai" },
+  { name: "Professional Safa Tying in Mumbai", slug: "professional-safa-tying-in-mumbai" },
+  { name: "Pagdi Bandhne Wala in Mumbai", slug: "pagdi-bandhne-wala-in-mumbai" },
+  // Shop / Purchase Intent
+  { name: "Buy Wedding Safa in Mumbai", slug: "buy-wedding-safa-in-mumbai" },
+  { name: "Wedding Safa for Rent in Mumbai", slug: "wedding-safa-for-rent-in-mumbai" },
+  { name: "Safa Shop in Mumbai", slug: "safa-shop-in-mumbai" },
+  { name: "Wedding Pagdi Shop in Mumbai", slug: "wedding-pagdi-shop-in-mumbai" },
+  { name: "Groom Turban Shop in Mumbai", slug: "groom-turban-shop-in-mumbai" },
+  { name: "Safa Garments in Mumbai", slug: "safa-garments-in-mumbai" },
+  // Bandhej / Premium
+  { name: "Wedding Safa Bandhej in Mumbai", slug: "wedding-safa-bandhej-in-mumbai" },
+  { name: "Groom Safa Bandhej in Mumbai", slug: "groom-safa-bandhej-in-mumbai" },
+  { name: "Royal Wedding Safa in Mumbai", slug: "royal-wedding-safa-in-mumbai" },
+  // Sehra Related
+  { name: "Sehra in Mumbai", slug: "sehra-in-mumbai" },
+  { name: "Groom Sehra in Mumbai", slug: "groom-sehra-in-mumbai" },
+  { name: "Dulha Sehra in Mumbai", slug: "dulha-sehra-in-mumbai" },
+  { name: "Dulhe Ka Sehra in Mumbai", slug: "dulhe-ka-sehra-in-mumbai" },
+  { name: "Sehra for Groom in Mumbai", slug: "sehra-for-groom-in-mumbai" },
+  { name: "Customized Sehra for Baraat in Mumbai", slug: "customized-sehra-for-baraat-in-mumbai" },
+  { name: "Sehra Rental in Mumbai", slug: "sehra-rental-in-mumbai" },
+  // Draping / Service
+  { name: "Wedding Turban Draping in Mumbai", slug: "wedding-turban-draping-in-mumbai" },
+  { name: "Wedding Safa Draping in Mumbai", slug: "wedding-safa-draping-in-mumbai" },
+]
+
 export function Footer({ hideMainNavigation = false }: FooterProps) {
   return (
     <>
@@ -17,20 +163,20 @@ export function Footer({ hideMainNavigation = false }: FooterProps) {
             {/* Company Info with Schema */}
             <div itemScope itemType="https://schema.org/LocalBusiness">
               <h2 className="text-3xl font-bold mb-4 text-accent" itemProp="name">
-                Safawala
+                Safawala Mumbai
               </h2>
               <p className="text-primary-foreground/80 font-mono leading-relaxed mb-6" itemProp="description">
                 {
-                  "Jaipur's most trusted wedding turban specialists. Bringing royal elegance to your special day since 2004."
+                  "Mumbai's most trusted wedding turban specialists. Bringing royal elegance to your special day since 2004."
                 }
               </p>
-              <meta itemProp="url" content="https://safawala.com" />
+              <meta itemProp="url" content="https://safawalamumbai.com" />
               <meta itemProp="telephone" content="+91-9725295692" />
-              <meta itemProp="email" content="info@safawalajaipur.com" />
-              <meta itemProp="areaServed" content="Jaipur" />
+              <meta itemProp="email" content="info@safawalamumbai.com" />
+              <meta itemProp="areaServed" content="Mumbai" />
               <div className="flex gap-4">
                 <a
-                  href="https://www.facebook.com/people/Safawalacom/61579176513014/"
+                  href="https://www.facebook.com/safawalamumbai/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-primary-foreground/10 hover:bg-accent flex items-center justify-center transition-colors"
@@ -39,7 +185,7 @@ export function Footer({ hideMainNavigation = false }: FooterProps) {
                   <Facebook className="w-5 h-5" aria-hidden="true" />
                 </a>
                 <a
-                  href="https://www.instagram.com/safawalaofficial/"
+                  href="https://www.instagram.com/safawalamumbai/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-primary-foreground/10 hover:bg-accent flex items-center justify-center transition-colors"
@@ -81,6 +227,7 @@ export function Footer({ hideMainNavigation = false }: FooterProps) {
               <li>Groom Turban & Sehra</li>
               <li>Feta & Wedding Turban Design</li>
               <li>Barati Safa Service</li>
+              <li>Marathi Pheta Service</li>
               <li>Destination Wedding Turbans</li>
             </ul>
           </div>
@@ -93,9 +240,9 @@ export function Footer({ hideMainNavigation = false }: FooterProps) {
                 <MapPin className="w-5 h-5 text-accent flex-shrink-0 mt-1" aria-hidden="true" />
                 <div>
                   <p className="text-primary-foreground/80 font-mono">
-                    Shop No. 12-13, 1st Floor,<br />
-                    Near Ramganj Chaupar, Ramganj Bazaar,<br />
-                    Jaipur, Rajasthan – 302003, India
+                    Shop No. 15, Ground Floor,<br />
+                    Near Gateway of India, Colaba Causeway,<br />
+                    Mumbai, Maharashtra – 400001, India
                   </p>
                 </div>
               </div>
@@ -113,10 +260,10 @@ export function Footer({ hideMainNavigation = false }: FooterProps) {
               <div className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-accent flex-shrink-0" aria-hidden="true" />
                 <a
-                  href="mailto:info@safawalajaipur.com"
+                  href="mailto:info@safawalamumbai.com"
                   className="text-primary-foreground/80 hover:text-accent transition-colors font-mono"
                 >
-                  info@safawalajaipur.com
+                  info@safawalamumbai.com
                 </a>
               </div>
 
@@ -131,301 +278,38 @@ export function Footer({ hideMainNavigation = false }: FooterProps) {
           </address>
         </div>
 
-        {/* Service Areas */}
+        {/* Service Areas - We Service In */}
         <div className="mt-12 pt-8 border-t border-primary-foreground/20">
-          <h4 className="text-xl font-bold mb-4 text-center">Wedding Turban Service - All Areas of Jaipur</h4>
-          <p className="text-center text-primary-foreground/80 font-mono text-sm leading-relaxed">
-            C-Scheme, Vaishali Nagar, Mansarovar, Malviya Nagar, Jagatpura, Raja Park, Sindhi Camp, Civil Lines, Bani Park, Ajmer Road, Tonk Road, JLN Marg, Sanganer, Ganj Katla, Ashok Nagar, Ram Nagar, Kalyan Vihar, Vidhyadhar Nagar, Shyam Nagar, Pal Road, Bahubali, Bapu Nagar, Ganesh Mandi, Lal Kothi, Niwaru Road, Ramganj, Ramesh Nagar, Bijnor Road, Pratap Nagar, Mahavir Nagar, Chaura Rasta, Alwar Bypass, Amber Fort Area, Seven Hills, Four Seasons Valley, Clarks Amer, Nahargarh, Naila Fort, and all surrounding areas of Jaipur
-          </p>
-          <p className="text-center text-accent font-mono text-sm mt-3">
-            ✓ Destination Wedding Turban Service | ✓ On-site Safa & Pagdi Tying | ✓ Groom & Baraati Coverage
+          <h4 className="text-xl font-bold mb-4 text-center">We Service In - All Areas of Mumbai</h4>
+          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-2 text-sm text-center">
+            {MUMBAI_AREAS.map((area) => (
+              <a
+                key={area.slug}
+                href={`/${area.slug}`}
+                className="text-primary-foreground/80 hover:text-accent transition-colors font-mono py-1"
+              >
+                {area.name}
+              </a>
+            ))}
+          </div>
+          <p className="text-center text-accent font-mono text-sm mt-4">
+            ✓ Destination Wedding Turban Service | ✓ On-site Safa & Pagdi Tying | ✓ Groom & Baraati Coverage | ✓ All Mumbai Areas
           </p>
         </div>
 
         {/* Our Services Links */}
         <div className="mt-12 pt-8 border-t border-primary-foreground/20">
-          <h4 className="text-xl font-bold mb-6 text-center">Wedding Turban Services</h4>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 text-sm">
-            <a href="/wedding-safa-tying-in-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Safa Tying in Jaipur
-            </a>
-            <a href="/groom-pagdi-tying-service-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Groom Pagdi Tying Service Jaipur
-            </a>
-            <a href="/rajasthani-turban-tying-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Rajasthani Turban Tying Jaipur
-            </a>
-            <a href="/barati-safa-pagdi-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Barati Safa Pagdi Jaipur
-            </a>
-            <a href="/destination-wedding-safa-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Destination Wedding Safa Jaipur
-            </a>
-            <a href="/royal-rajwadi-safa-tying-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Royal Rajwadi Safa Tying Jaipur
-            </a>
-            <a href="/marwari-wedding-pagdi-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Marwari Wedding Pagdi Jaipur
-            </a>
-            <a href="/jaipur-turban-tying-for-guests" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Jaipur Turban Tying for Guests
-            </a>
-            <a href="/designer-wedding-safa-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Designer Wedding Safa Jaipur
-            </a>
-            <a href="/pagdi-bandhne-wala-in-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Pagdi Bandhne Wala in Jaipur
-            </a>
-            <a href="/floral-safa-pagdi-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Floral Safa Pagdi Jaipur
-            </a>
-            <a href="/sehra-and-pagdi-for-groom-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Sehra and Pagdi for Groom Jaipur
-            </a>
-            <a href="/sherwani-safa-turban-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Sherwani Safa Turban Jaipur
-            </a>
-            <a href="/traditional-rajasthani-pagri-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Traditional Rajasthani Pagri Jaipur
-            </a>
-            <a href="/wedding-feta-tying-service-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Feta Tying Service Jaipur
-            </a>
-            <a href="/mehndi-function-safa-tying-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Mehndi Function Safa Tying Jaipur
-            </a>
-            <a href="/baraat-pagdi-rental-and-tying-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Baraat Pagdi Rental and Tying Jaipur
-            </a>
-            <a href="/premium-groom-turban-service-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Premium Groom Turban Service Jaipur
-            </a>
-            <a href="/jaipur-safa-pagdi-on-rent-with-tying" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Jaipur Safa Pagdi On Rent With Tying
-            </a>
-            <a href="/corporate-and-wedding-turban-tying-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Corporate and Wedding Turban Tying Jaipur
-            </a>
-            <a href="/wedding-turban-styling-services-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Turban Styling Services Jaipur
-            </a>
-            <a href="/turban-tying-services-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Turban Tying Services in Jaipur
-            </a>
-            <a href="/wedding-safa-wala-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Safa Wala in Jaipur
-            </a>
-            <a href="/pagdi-tying-artist-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Pagdi Tying Artist in Jaipur
-            </a>
-            <a href="/safa-pagdi-tying-wedding-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Safa Pagdi Tying for Wedding Jaipur
-            </a>
-            <a href="/turban-tying-services-in-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Turban Tying Services in Jaipur
-            </a>
-            <a href="/wedding-safa-wala-in-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Safa Wala in Jaipur
-            </a>
-            <a href="/marwari-safa-tying-in-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Marwari Safa Tying in Jaipur
-            </a>
-            <a href="/jodhpuri-pagdi-tying-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Jodhpuri Pagdi Tying Jaipur
-            </a>
-            <a href="/professional-turban-artist-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Professional Turban Artist Jaipur
-            </a>
-            <a href="/wedding-pagdi-service-near-me-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Pagdi Service Near Me Jaipur
-            </a>
-            <a href="/safa-tying-at-venue-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Safa Tying At Venue Jaipur
-            </a>
-            <a href="/safa-pagdi-on-rent-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Safa Pagdi On Rent Jaipur
-            </a>
-            <a href="/pagdi-on-rent-for-wedding-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Pagdi On Rent For Wedding Jaipur
-            </a>
-            <a href="/wedding-safa-with-tying-service-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Safa With Tying Service Jaipur
-            </a>
-            <a href="/turban-tying-destination-wedding-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Turban Tying For Destination Wedding Jaipur
-            </a>
-            <a href="/barat-safa-pagdi-package-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Barat Safa Pagdi Package Jaipur
-            </a>
-            <a href="/mehndi-haldi-safa-tying-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Mehndi Haldi Safa Tying Jaipur
-            </a>
-            <a href="/reception-turban-tying-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Reception Turban Tying Jaipur
-            </a>
-            <a href="/festival-pagdi-tying-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Festival Pagdi Tying Jaipur
-            </a>
-            <a href="/corporate-event-turban-tying-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Corporate Event Turban Tying Jaipur
-            </a>
-            <a href="/foreigner-turban-experience-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Foreigner Turban Experience Jaipur
-            </a>
-            <a href="/royal-wedding-safa-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Royal Wedding Safa Jaipur
-            </a>
-            <a href="/rajputi-pagdi-for-groom-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Rajputi Pagdi For Groom Jaipur
-            </a>
-            <a href="/designer-rajasthani-safa-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Designer Rajasthani Safa Jaipur
-            </a>
-            <a href="/colourful-bandhej-safa-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Colourful Bandhej Safa Jaipur
-            </a>
-            <a href="/gota-patti-safa-pagdi-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Gota Patti Safa Pagdi Jaipur
-            </a>
-            <a href="/floral-sehra-with-pagdi-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Floral Sehra With Pagdi Jaipur
-            </a>
-            <a href="/groom-sherwani-turban-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Groom Sherwani Turban Jaipur
-            </a>
-            <a href="/ladkewale-safa-tying-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Ladkewale Safa Tying Jaipur
-            </a>
-            <a href="/ladkiwale-pagdi-tying-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Ladkiwale Pagdi Tying Jaipur
-            </a>
-            <a href="/family-matching-safa-pagdi-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Family Matching Safa Pagdi Jaipur
-            </a>
-          </div>
-        </div>
-
-        {/* Location-Based Services */}
-        <div className="mt-12 pt-8 border-t border-primary-foreground/20">
-          <h4 className="text-xl font-bold mb-6 text-center">Turban Services By Location</h4>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 text-sm">
-            <a href="/safa-tying-c-scheme-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Safa Tying C-Scheme Jaipur
-            </a>
-            <a href="/pagdi-service-vaishali-nagar-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Pagdi Service Vaishali Nagar Jaipur
-            </a>
-            <a href="/wedding-turban-mansarovar-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Turban Mansarovar Jaipur
-            </a>
-            <a href="/groom-safa-malviya-nagar-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Groom Safa Malviya Nagar Jaipur
-            </a>
-            <a href="/turban-tying-jagatpura-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Turban Tying Jagatpura Jaipur
-            </a>
-            <a href="/pagdi-wala-raja-park-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Pagdi Wala Raja Park Jaipur
-            </a>
-            <a href="/barati-safa-sindhi-camp-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Barati Safa Sindhi Camp Jaipur
-            </a>
-            <a href="/wedding-pagdi-civil-lines-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Pagdi Civil Lines Jaipur
-            </a>
-            <a href="/royal-turban-bani-park-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Royal Turban Bani Park Jaipur
-            </a>
-            <a href="/safa-service-ajmer-road-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Safa Service Ajmer Road Jaipur
-            </a>
-            <a href="/pagdi-tying-tonk-road-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Pagdi Tying Tonk Road Jaipur
-            </a>
-            <a href="/turban-jln-marg-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Turban Near JLN Marg Jaipur
-            </a>
-            <a href="/wedding-safa-sanganer-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Safa Sanganer Jaipur
-            </a>
-            <a href="/groom-pagdi-ganj-katla-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Groom Pagdi Ganj Katla Jaipur
-            </a>
-            <a href="/turban-tying-ashok-nagar-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Turban Tying Ashok Nagar Jaipur
-            </a>
-            <a href="/safa-wala-ram-nagar-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Safa Wala Ram Nagar Jaipur
-            </a>
-            <a href="/pagdi-service-kalyan-vihar-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Pagdi Service Kalyan Vihar Jaipur
-            </a>
-            <a href="/barat-turban-vidhyadhar-nagar-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Barat Turban Vidhyadhar Nagar Jaipur
-            </a>
-            <a href="/royal-safa-shyam-nagar-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Royal Safa Shyam Nagar Jaipur
-            </a>
-            <a href="/wedding-pagdi-pal-road-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Pagdi Pal Road Jaipur
-            </a>
-            <a href="/turban-tying-bahubali-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Turban Tying Bahubali Jaipur
-            </a>
-            <a href="/safa-tying-bapu-nagar-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Safa Tying Bapu Nagar Jaipur
-            </a>
-            <a href="/pagdi-artist-ganesh-mandi-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Pagdi Artist Ganesh Mandi Jaipur
-            </a>
-            <a href="/groom-turban-lal-kothi-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Groom Turban Lal Kothi Jaipur
-            </a>
-            <a href="/wedding-safa-niwaru-road-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Safa Niwaru Road Jaipur
-            </a>
-            <a href="/turban-service-ramganj-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Turban Service Ramganj Jaipur
-            </a>
-            <a href="/pagdi-wala-ramesh-nagar-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Pagdi Wala Ramesh Nagar Jaipur
-            </a>
-            <a href="/safa-near-bijnor-road-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Safa Near Bijnor Road Jaipur
-            </a>
-            <a href="/barati-pagdi-pratap-nagar-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Barati Pagdi Pratap Nagar Jaipur
-            </a>
-            <a href="/turban-tying-mahavir-nagar-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Turban Tying Mahavir Nagar Jaipur
-            </a>
-            <a href="/royal-safa-chaura-rasta-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Royal Safa Chaura Rasta Jaipur
-            </a>
-            <a href="/wedding-turban-alwar-bypass-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Turban Alwar Bypass Jaipur
-            </a>
-            <a href="/pagdi-amber-fort-area-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Pagdi Amber Fort Area Jaipur
-            </a>
-            <a href="/groom-safa-seven-hills-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Groom Safa Seven Hills Jaipur
-            </a>
-            <a href="/turban-service-four-seasons-valley-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Turban Service Four Seasons Valley Jaipur
-            </a>
-            <a href="/safa-tying-clarks-amer-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Safa Tying Clarks Amer Jaipur
-            </a>
-            <a href="/pagdi-near-nahargarh-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Pagdi Near Nahargarh Jaipur
-            </a>
-            <a href="/wedding-safa-naila-fort-jaipur" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Wedding Safa Naila Fort Jaipur
-            </a>
-            <a href="/turban-tying-jaipur-outskirts" className="text-primary-foreground/80 hover:text-accent transition-colors font-mono">
-              → Turban Tying Jaipur Outskirts
-            </a>
+          <h4 className="text-xl font-bold mb-6 text-center">Wedding Turban Services in Mumbai</h4>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3 text-sm">
+            {SERVICE_KEYWORDS.map((service) => (
+              <a
+                key={service.slug}
+                href={`/${service.slug}`}
+                className="text-primary-foreground/80 hover:text-accent transition-colors font-mono"
+              >
+                → {service.name}
+              </a>
+            ))}
           </div>
         </div>
 
@@ -433,7 +317,7 @@ export function Footer({ hideMainNavigation = false }: FooterProps) {
         <div className="mt-12 pt-8 border-t border-primary-foreground/20">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-primary-foreground/80 font-mono text-sm text-center md:text-left">
-              © 2025 Safawala. All rights reserved. | Jaipur's Premier Wedding Turban Service
+              © 2025 Safawala Mumbai. All rights reserved. | Mumbai's Premier Wedding Turban Service
             </p>
             <div className="flex gap-6 text-sm font-mono">
               <a href="#" className="text-primary-foreground/80 hover:text-accent transition-colors">
@@ -448,17 +332,19 @@ export function Footer({ hideMainNavigation = false }: FooterProps) {
 
         {/* Local SEO - Service Areas in Structured Format */}
         <div className="mt-12 pt-8 border-t border-primary-foreground/20">
-          <h3 className="text-xl font-bold mb-4 text-center">Service Areas - All Neighborhoods of Jaipur</h3>
+          <h3 className="text-xl font-bold mb-4 text-center">Service Areas - All Neighborhoods of Mumbai</h3>
           <p className="text-center text-primary-foreground/80 font-mono text-sm leading-relaxed max-w-4xl mx-auto">
-            We provide professional turban tying service across all major areas of Jaipur including:
+            We provide professional turban tying service across all major areas of Mumbai including:
             <br />
-            <strong>Central Jaipur:</strong> C-Scheme, Civil Lines, Bani Park, Raja Park, Sindhi Camp, JLN Marg
+            <strong>South Mumbai:</strong> Colaba, Cuffe Parade, Nariman Point, Churchgate, Marine Drive, Malabar Hill, Breach Candy, Cumballa Hill
             <br />
-            <strong>East Jaipur:</strong> Vaishali Nagar, Vidhyadhar Nagar, Shyam Nagar, Kalyan Vihar
+            <strong>Central Mumbai:</strong> Parel, Dadar, Matunga, Sion, Byculla, Lower Parel, Mumbai Central
             <br />
-            <strong>South Jaipur:</strong> Mansarovar, Malviya Nagar, Jagatpura, Ajmer Road, Tonk Road
+            <strong>Western Suburbs:</strong> Bandra, Juhu, Andheri, Santacruz, Vile Parle, Khar, Goregaon, Malad, Kandivali, Borivali
             <br />
-            <strong>Other Areas:</strong> Sanganer, Ashok Nagar, Ram Nagar, Pal Road, Bapu Nagar, Ganesh Mandi, Niwaru Road, Ramganj, Alwar Bypass, Amber Fort Area, and all surrounding areas
+            <strong>Eastern Suburbs:</strong> Chembur, Kurla, Ghatkopar, Mulund, Bhandup, Powai
+            <br />
+            <strong>Navi Mumbai:</strong> Vashi, Nerul, CBD Belapur, Kharghar, Panvel
           </p>
           <p className="text-center text-accent font-mono text-sm mt-3 font-semibold">
             ✓ Same-Day Service Available | ✓ Free Consultation | ✓ Destination Weddings | ✓ On-site Styling
@@ -468,16 +354,16 @@ export function Footer({ hideMainNavigation = false }: FooterProps) {
 
       {/* SEO Keywords (hidden) */}
       <div className="sr-only">
-        Wedding turban Jaipur, safa Jaipur, pagdi tying service, groom turban, Rajasthani turban, wedding safa, feta,
-        sehra, barati safa, turban rental Jaipur, turban service Jaipur, wedding turban price, turban for groom, best
-        turban service Jaipur, custom wedding turban, turban tying near me, groom pagdi, traditional turban Jaipur,
-        premium safa design, wedding turban online, turban shop Jaipur, modern pagdi design, ethnic turban, fabric safa,
-        gold embroidered turban, bridal groom turban, turban booking Jaipur, same day turban service, professional
-        turban tying, handmade safa, silk pagdi, embellished turban, wedding turban rental, groom styling Jaipur,
-        wedding safa tying in Jaipur, groom pagdi tying service, traditional rajasthani pagri, barati safa pagdi,
-        destination wedding safa, designer wedding safa, floral safa pagdi, sehra and pagdi for groom, sherwani safa turban,
-        wedding feta tying, mehndi function safa, baraat pagdi rental, premium groom turban, safa pagdi on rent,
-        corporate turban tying, turban specialist Jaipur, master turban tying, authentic turban service, local turban expert
+        Wedding turban Mumbai, safa Mumbai, pagdi tying service Mumbai, groom turban Mumbai, wedding safa Mumbai, turban tying Mumbai,
+        best turban service Mumbai, safa tying service Mumbai, pagdi design Mumbai, feta tying Mumbai, sehra Mumbai, barati safa Mumbai,
+        turban rental Mumbai, turban service Mumbai, wedding turban price Mumbai, turban for groom Mumbai, custom wedding turban Mumbai,
+        turban tying near me Mumbai, groom pagdi Mumbai, traditional turban Mumbai, premium safa design Mumbai, wedding turban online Mumbai,
+        turban shop Mumbai, modern pagdi design Mumbai, ethnic turban Mumbai, fabric safa Mumbai, gold embroidered turban Mumbai,
+        bridal groom turban Mumbai, turban booking Mumbai, same day turban service Mumbai, professional turban tying Mumbai,
+        handmade safa Mumbai, silk pagdi Mumbai, embellished turban Mumbai, wedding turban rental Mumbai, groom styling Mumbai,
+        rajasthani safa mumbai, jodhpuri safa mumbai, marathi pheta mumbai, gujarati pagdi mumbai, punjabi turban mumbai,
+        Colaba safa service, Bandra turban tying, Juhu pagdi service, Andheri wedding turban, Powai safa tying,
+        Thane turban service, Vashi safa service, Navi Mumbai turban, South Mumbai pagdi, Western Suburbs safa
       </div>
     </footer>
     </>

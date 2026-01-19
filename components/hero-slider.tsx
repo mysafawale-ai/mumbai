@@ -10,23 +10,23 @@ import { addLead } from "@/lib/leads"
 const slides = [
   {
     id: 1,
-    title: "Barati Safa & Wedding Turbans in Jaipur",
-    subtitle: "Premium Turban Service",
-    description: "Safawala's traditional safa & pagdi for baraat ceremonies and groom's entourage across Jaipur",
+    title: "Barati Safa & Wedding Turbans in Mumbai",
+    subtitle: "Premium Turban Service Mumbai",
+    description: "Safawala Mumbai's traditional safa & pagdi for baraat ceremonies and groom's entourage across all Mumbai areas",
     image: "/1.png",
   },
   {
     id: 2,
-    title: "Destination Wedding Safa & Pagdi",
-    subtitle: "Turban Excellence Anywhere",
-    description: "Expert feta, sehra and wedding turban solutions for your dream wedding at any location",
+    title: "Destination Wedding Safa & Pagdi Mumbai",
+    subtitle: "Turban Excellence Anywhere in Mumbai",
+    description: "Expert feta, sehra and wedding turban solutions for your dream wedding at any location in Mumbai",
     image: "/2.png",
   },
   {
     id: 3,
-    title: "Groom Safa, Pagdi & Sehra",
-    subtitle: "Your Royal Look",
-    description: "Handcrafted premium turban designs exclusively for the groom's grand entrance - Jaipur's best turban tying service",
+    title: "Groom Safa, Pagdi & Sehra Mumbai",
+    subtitle: "Your Royal Look in Mumbai",
+    description: "Handcrafted premium turban designs exclusively for the groom's grand entrance - Mumbai's best turban tying service",
     image: "/3.png",
   },
 ]
@@ -63,7 +63,7 @@ export function HeroSlider() {
 ✨ *Design/Colour/Fabric Preference:* ${formData.preference}
 
 ---
-📱 *Sent via Safawala Website*
+📱 *Sent via Safawala Mumbai Website*
     `.trim()
 
     const whatsappNumber = "919725295692"
@@ -119,7 +119,7 @@ export function HeroSlider() {
                   <div className="mb-3 pb-3 border-b border-border">
                     <p className="text-xs text-accent font-mono uppercase tracking-wider mb-1">Quick Response</p>
                     <h3 className="text-xs sm:text-sm md:text-base font-bold text-card-foreground">
-                      Professional Safa Tying Service in Jaipur
+                      Professional Safa Tying Service in Mumbai
                       <br />
                       <em className="text-xs not-italic">— 1 Hour Response Time</em>
                     </h3>
@@ -161,7 +161,7 @@ export function HeroSlider() {
                       <Input
                         id="eventCity"
                         type="text"
-                        placeholder="Jaipur, Delhi..."
+                        placeholder="Mumbai, Thane..."
                         value={formData.eventCity}
                         onChange={(e) => setFormData({ ...formData, eventCity: e.target.value })}
                         required

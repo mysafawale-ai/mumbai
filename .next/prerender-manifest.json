@@ -102,7 +102,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/baraat-pagdi-rental-and-tying-jaipur": {
+    "/andheri-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -115,8 +115,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/baraat-pagdi-rental-and-tying-jaipur",
-      "dataRoute": "/baraat-pagdi-rental-and-tying-jaipur.rsc",
+      "srcRoute": "/andheri-safa-service",
+      "dataRoute": "/andheri-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -127,7 +127,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/barat-safa-pagdi-package-jaipur": {
+    "/baarat-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -140,8 +140,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/barat-safa-pagdi-package-jaipur",
-      "dataRoute": "/barat-safa-pagdi-package-jaipur.rsc",
+      "srcRoute": "/baarat-safa-in-mumbai",
+      "dataRoute": "/baarat-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -152,7 +152,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/barat-turban-vidhyadhar-nagar-location": {
+    "/bandhej-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -165,8 +165,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/barat-turban-vidhyadhar-nagar-location",
-      "dataRoute": "/barat-turban-vidhyadhar-nagar-location.rsc",
+      "srcRoute": "/bandhej-safa-in-mumbai",
+      "dataRoute": "/bandhej-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -177,7 +177,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/barati-safa-pagdi-jaipur": {
+    "/bandra-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -190,8 +190,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/barati-safa-pagdi-jaipur",
-      "dataRoute": "/barati-safa-pagdi-jaipur.rsc",
+      "srcRoute": "/bandra-safa-service",
+      "dataRoute": "/bandra-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -202,7 +202,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/barati-safa-sindhi-camp-location": {
+    "/barati-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -215,8 +215,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/barati-safa-sindhi-camp-location",
-      "dataRoute": "/barati-safa-sindhi-camp-location.rsc",
+      "srcRoute": "/barati-safa-in-mumbai",
+      "dataRoute": "/barati-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -227,7 +227,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/bridal-family-turban-tying-jaipur": {
+    "/barati-safa-tying-for-international-wedding": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -240,8 +240,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/bridal-family-turban-tying-jaipur",
-      "dataRoute": "/bridal-family-turban-tying-jaipur.rsc",
+      "srcRoute": "/barati-safa-tying-for-international-wedding",
+      "dataRoute": "/barati-safa-tying-for-international-wedding.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -252,7 +252,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/business-event-turban-service-jaipur": {
+    "/beach-wedding-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -265,8 +265,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/business-event-turban-service-jaipur",
-      "dataRoute": "/business-event-turban-service-jaipur.rsc",
+      "srcRoute": "/beach-wedding-safa-in-mumbai",
+      "dataRoute": "/beach-wedding-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -277,7 +277,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/colourful-bandhej-safa-jaipur": {
+    "/black-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -290,8 +290,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/colourful-bandhej-safa-jaipur",
-      "dataRoute": "/colourful-bandhej-safa-jaipur.rsc",
+      "srcRoute": "/black-safa-in-mumbai",
+      "dataRoute": "/black-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -302,7 +302,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/corporate-and-wedding-turban-tying-jaipur": {
+    "/blue-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -315,8 +315,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/corporate-and-wedding-turban-tying-jaipur",
-      "dataRoute": "/corporate-and-wedding-turban-tying-jaipur.rsc",
+      "srcRoute": "/blue-safa-in-mumbai",
+      "dataRoute": "/blue-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -327,7 +327,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/corporate-event-turban-tying-jaipur": {
+    "/borivali-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -340,8 +340,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/corporate-event-turban-tying-jaipur",
-      "dataRoute": "/corporate-event-turban-tying-jaipur.rsc",
+      "srcRoute": "/borivali-safa-service",
+      "dataRoute": "/borivali-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -352,7 +352,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/designer-rajasthani-safa-jaipur": {
+    "/brocade-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -365,8 +365,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/designer-rajasthani-safa-jaipur",
-      "dataRoute": "/designer-rajasthani-safa-jaipur.rsc",
+      "srcRoute": "/brocade-safa-in-mumbai",
+      "dataRoute": "/brocade-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -377,7 +377,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/designer-wedding-safa-jaipur": {
+    "/brother-of-groom-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -390,8 +390,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/designer-wedding-safa-jaipur",
-      "dataRoute": "/designer-wedding-safa-jaipur.rsc",
+      "srcRoute": "/brother-of-groom-safa-in-mumbai",
+      "dataRoute": "/brother-of-groom-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -402,7 +402,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/destination-wedding-safa-jaipur": {
+    "/buy-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -415,8 +415,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/destination-wedding-safa-jaipur",
-      "dataRoute": "/destination-wedding-safa-jaipur.rsc",
+      "srcRoute": "/buy-safa-in-mumbai",
+      "dataRoute": "/buy-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -427,7 +427,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/family-matching-safa-pagdi-jaipur": {
+    "/chembur-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -440,8 +440,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/family-matching-safa-pagdi-jaipur",
-      "dataRoute": "/family-matching-safa-pagdi-jaipur.rsc",
+      "srcRoute": "/chembur-safa-service",
+      "dataRoute": "/chembur-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -452,7 +452,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/festival-pagdi-tying-jaipur": {
+    "/corporate-event-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -465,8 +465,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/festival-pagdi-tying-jaipur",
-      "dataRoute": "/festival-pagdi-tying-jaipur.rsc",
+      "srcRoute": "/corporate-event-safa-in-mumbai",
+      "dataRoute": "/corporate-event-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -477,7 +477,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/floral-safa-pagdi-jaipur": {
+    "/corporate-event-turban-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -490,8 +490,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/floral-safa-pagdi-jaipur",
-      "dataRoute": "/floral-safa-pagdi-jaipur.rsc",
+      "srcRoute": "/corporate-event-turban-in-mumbai",
+      "dataRoute": "/corporate-event-turban-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -502,7 +502,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/floral-sehra-pagdi-jaipur": {
+    "/cotton-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -515,8 +515,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/floral-sehra-pagdi-jaipur",
-      "dataRoute": "/floral-sehra-pagdi-jaipur.rsc",
+      "srcRoute": "/cotton-safa-in-mumbai",
+      "dataRoute": "/cotton-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -527,7 +527,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/foreigner-turban-experience-jaipur": {
+    "/cream-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -540,8 +540,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/foreigner-turban-experience-jaipur",
-      "dataRoute": "/foreigner-turban-experience-jaipur.rsc",
+      "srcRoute": "/cream-safa-in-mumbai",
+      "dataRoute": "/cream-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -552,7 +552,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/gota-patti-safa-pagdi-jaipur": {
+    "/custom-wedding-turban-for-overseas-weddings": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -565,8 +565,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/gota-patti-safa-pagdi-jaipur",
-      "dataRoute": "/gota-patti-safa-pagdi-jaipur.rsc",
+      "srcRoute": "/custom-wedding-turban-for-overseas-weddings",
+      "dataRoute": "/custom-wedding-turban-for-overseas-weddings.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -577,7 +577,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/groom-pagdi-ganj-katla-location": {
+    "/dadar-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -590,8 +590,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/groom-pagdi-ganj-katla-location",
-      "dataRoute": "/groom-pagdi-ganj-katla-location.rsc",
+      "srcRoute": "/dadar-safa-service",
+      "dataRoute": "/dadar-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -602,7 +602,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/groom-pagdi-tying-service-jaipur": {
+    "/designer-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -615,8 +615,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/groom-pagdi-tying-service-jaipur",
-      "dataRoute": "/groom-pagdi-tying-service-jaipur.rsc",
+      "srcRoute": "/designer-safa-in-mumbai",
+      "dataRoute": "/designer-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -627,7 +627,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/groom-safa-malviya-nagar-location": {
+    "/designer-wedding-turban": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -640,8 +640,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/groom-safa-malviya-nagar-location",
-      "dataRoute": "/groom-safa-malviya-nagar-location.rsc",
+      "srcRoute": "/designer-wedding-turban",
+      "dataRoute": "/designer-wedding-turban.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -652,7 +652,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/groom-sherwani-turban-coordination-jaipur": {
+    "/destination-wedding-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -665,8 +665,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/groom-sherwani-turban-coordination-jaipur",
-      "dataRoute": "/groom-sherwani-turban-coordination-jaipur.rsc",
+      "srcRoute": "/destination-wedding-safa-in-mumbai",
+      "dataRoute": "/destination-wedding-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -677,7 +677,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/groom-turban-lal-kothi-location": {
+    "/destination-wedding-turban": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -690,8 +690,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/groom-turban-lal-kothi-location",
-      "dataRoute": "/groom-turban-lal-kothi-location.rsc",
+      "srcRoute": "/destination-wedding-turban",
+      "dataRoute": "/destination-wedding-turban.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -702,7 +702,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/jaipur-safa-pagdi-on-rent-with-tying": {
+    "/diwali-turban-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -715,8 +715,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/jaipur-safa-pagdi-on-rent-with-tying",
-      "dataRoute": "/jaipur-safa-pagdi-on-rent-with-tying.rsc",
+      "srcRoute": "/diwali-turban-in-mumbai",
+      "dataRoute": "/diwali-turban-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -727,7 +727,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/jaipur-turban-tying-for-guests": {
+    "/dulha-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -740,8 +740,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/jaipur-turban-tying-for-guests",
-      "dataRoute": "/jaipur-turban-tying-for-guests.rsc",
+      "srcRoute": "/dulha-safa-in-mumbai",
+      "dataRoute": "/dulha-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -752,7 +752,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/jodhpuri-pagdi-tying-jaipur": {
+    "/embroidered-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -765,8 +765,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/jodhpuri-pagdi-tying-jaipur",
-      "dataRoute": "/jodhpuri-pagdi-tying-jaipur.rsc",
+      "srcRoute": "/embroidered-safa-in-mumbai",
+      "dataRoute": "/embroidered-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -777,7 +777,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/ladkewale-turban-tying-jaipur": {
+    "/engagement-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -790,8 +790,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/ladkewale-turban-tying-jaipur",
-      "dataRoute": "/ladkewale-turban-tying-jaipur.rsc",
+      "srcRoute": "/engagement-safa-in-mumbai",
+      "dataRoute": "/engagement-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -802,7 +802,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/ladkiwale-pagdi-tying-jaipur": {
+    "/family-safa-service-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -815,8 +815,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/ladkiwale-pagdi-tying-jaipur",
-      "dataRoute": "/ladkiwale-pagdi-tying-jaipur.rsc",
+      "srcRoute": "/family-safa-service-in-mumbai",
+      "dataRoute": "/family-safa-service-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -827,7 +827,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/luxury-premium-turban-service-jaipur": {
+    "/father-of-groom-turban-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -840,8 +840,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/luxury-premium-turban-service-jaipur",
-      "dataRoute": "/luxury-premium-turban-service-jaipur.rsc",
+      "srcRoute": "/father-of-groom-turban-in-mumbai",
+      "dataRoute": "/father-of-groom-turban-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -852,7 +852,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/marathi-pheta-tying-jaipur": {
+    "/festival-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -865,8 +865,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/marathi-pheta-tying-jaipur",
-      "dataRoute": "/marathi-pheta-tying-jaipur.rsc",
+      "srcRoute": "/festival-safa-in-mumbai",
+      "dataRoute": "/festival-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -877,7 +877,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/marwari-safa-tying-in-jaipur": {
+    "/feta-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -890,8 +890,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/marwari-safa-tying-in-jaipur",
-      "dataRoute": "/marwari-safa-tying-in-jaipur.rsc",
+      "srcRoute": "/feta-in-mumbai",
+      "dataRoute": "/feta-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -902,7 +902,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/marwari-safa-tying-jaipur": {
+    "/foreigner-turban-experience-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -915,8 +915,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/marwari-safa-tying-jaipur",
-      "dataRoute": "/marwari-safa-tying-jaipur.rsc",
+      "srcRoute": "/foreigner-turban-experience-in-mumbai",
+      "dataRoute": "/foreigner-turban-experience-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -927,7 +927,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/marwari-wedding-pagdi-jaipur": {
+    "/ghatkopar-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -940,8 +940,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/marwari-wedding-pagdi-jaipur",
-      "dataRoute": "/marwari-wedding-pagdi-jaipur.rsc",
+      "srcRoute": "/ghatkopar-safa-service",
+      "dataRoute": "/ghatkopar-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -952,7 +952,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/mehndi-function-safa-tying-jaipur": {
+    "/golden-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -965,8 +965,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/mehndi-function-safa-tying-jaipur",
-      "dataRoute": "/mehndi-function-safa-tying-jaipur.rsc",
+      "srcRoute": "/golden-safa-in-mumbai",
+      "dataRoute": "/golden-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -977,7 +977,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/mehndi-haldi-safa-tying-jaipur": {
+    "/goregaon-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -990,8 +990,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/mehndi-haldi-safa-tying-jaipur",
-      "dataRoute": "/mehndi-haldi-safa-tying-jaipur.rsc",
+      "srcRoute": "/goregaon-safa-service",
+      "dataRoute": "/goregaon-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1002,7 +1002,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/muslim-wedding-turban-tying-jaipur": {
+    "/gota-patti-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1015,8 +1015,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/muslim-wedding-turban-tying-jaipur",
-      "dataRoute": "/muslim-wedding-turban-tying-jaipur.rsc",
+      "srcRoute": "/gota-patti-safa-in-mumbai",
+      "dataRoute": "/gota-patti-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1027,7 +1027,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/online-turban-tying-consultation-jaipur": {
+    "/green-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1040,8 +1040,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/online-turban-tying-consultation-jaipur",
-      "dataRoute": "/online-turban-tying-consultation-jaipur.rsc",
+      "srcRoute": "/green-safa-in-mumbai",
+      "dataRoute": "/green-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1052,7 +1052,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/pagdi-artist-ganesh-mandi-location": {
+    "/groom-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1065,8 +1065,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/pagdi-artist-ganesh-mandi-location",
-      "dataRoute": "/pagdi-artist-ganesh-mandi-location.rsc",
+      "srcRoute": "/groom-safa-in-mumbai",
+      "dataRoute": "/groom-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1077,7 +1077,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/pagdi-bandhne-wala-in-jaipur": {
+    "/groom-turban-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1090,8 +1090,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/pagdi-bandhne-wala-in-jaipur",
-      "dataRoute": "/pagdi-bandhne-wala-in-jaipur.rsc",
+      "srcRoute": "/groom-turban-in-mumbai",
+      "dataRoute": "/groom-turban-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1102,7 +1102,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/pagdi-service-kalyan-vihar-location": {
+    "/group-safa-service-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1115,8 +1115,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/pagdi-service-kalyan-vihar-location",
-      "dataRoute": "/pagdi-service-kalyan-vihar-location.rsc",
+      "srcRoute": "/group-safa-service-in-mumbai",
+      "dataRoute": "/group-safa-service-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1127,7 +1127,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/pagdi-service-rani-sagar-jaipur": {
+    "/guest-turban-service-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1140,8 +1140,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/pagdi-service-rani-sagar-jaipur",
-      "dataRoute": "/pagdi-service-rani-sagar-jaipur.rsc",
+      "srcRoute": "/guest-turban-service-in-mumbai",
+      "dataRoute": "/guest-turban-service-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1152,7 +1152,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/pagdi-service-vaishali-nagar-jaipur": {
+    "/gujarati-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1165,8 +1165,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/pagdi-service-vaishali-nagar-jaipur",
-      "dataRoute": "/pagdi-service-vaishali-nagar-jaipur.rsc",
+      "srcRoute": "/gujarati-safa-in-mumbai",
+      "dataRoute": "/gujarati-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1177,7 +1177,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/pagdi-service-vaishali-nagar-location": {
+    "/haldi-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1190,8 +1190,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/pagdi-service-vaishali-nagar-location",
-      "dataRoute": "/pagdi-service-vaishali-nagar-location.rsc",
+      "srcRoute": "/haldi-safa-in-mumbai",
+      "dataRoute": "/haldi-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1202,7 +1202,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/pagdi-tying-artist-jaipur": {
+    "/hand-tied-turban-for-international-wedding": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1215,8 +1215,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/pagdi-tying-artist-jaipur",
-      "dataRoute": "/pagdi-tying-artist-jaipur.rsc",
+      "srcRoute": "/hand-tied-turban-for-international-wedding",
+      "dataRoute": "/hand-tied-turban-for-international-wedding.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1227,7 +1227,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/pagdi-tying-tonk-road-location": {
+    "/holi-turban-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1240,8 +1240,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/pagdi-tying-tonk-road-location",
-      "dataRoute": "/pagdi-tying-tonk-road-location.rsc",
+      "srcRoute": "/holi-turban-in-mumbai",
+      "dataRoute": "/holi-turban-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1252,7 +1252,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/pagdi-wala-raja-park-location": {
+    "/jodhpuri-matching-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1265,8 +1265,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/pagdi-wala-raja-park-location",
-      "dataRoute": "/pagdi-wala-raja-park-location.rsc",
+      "srcRoute": "/jodhpuri-matching-safa-in-mumbai",
+      "dataRoute": "/jodhpuri-matching-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1277,7 +1277,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/pagdi-wala-ramesh-nagar-location": {
+    "/jodhpuri-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1290,8 +1290,833 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/pagdi-wala-ramesh-nagar-location",
-      "dataRoute": "/pagdi-wala-ramesh-nagar-location.rsc",
+      "srcRoute": "/jodhpuri-safa-in-mumbai",
+      "dataRoute": "/jodhpuri-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/juhu-safa-service": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/juhu-safa-service",
+      "dataRoute": "/juhu-safa-service.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/kalyan-dombivli-safa-service": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/kalyan-dombivli-safa-service",
+      "dataRoute": "/kalyan-dombivli-safa-service.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/kandivali-safa-service": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/kandivali-safa-service",
+      "dataRoute": "/kandivali-safa-service.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/khar-safa-service": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/khar-safa-service",
+      "dataRoute": "/khar-safa-service.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/kharghar-safa-service": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/kharghar-safa-service",
+      "dataRoute": "/kharghar-safa-service.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/kurla-safa-service": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/kurla-safa-service",
+      "dataRoute": "/kurla-safa-service.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/kurta-matching-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/kurta-matching-safa-in-mumbai",
+      "dataRoute": "/kurta-matching-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/ladkewale-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/ladkewale-safa-in-mumbai",
+      "dataRoute": "/ladkewale-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/ladkiwale-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/ladkiwale-safa-in-mumbai",
+      "dataRoute": "/ladkiwale-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/leheriya-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/leheriya-safa-in-mumbai",
+      "dataRoute": "/leheriya-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/luxury-wedding-turban-for-groom": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/luxury-wedding-turban-for-groom",
+      "dataRoute": "/luxury-wedding-turban-for-groom.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/malad-safa-service": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/malad-safa-service",
+      "dataRoute": "/malad-safa-service.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/marathi-pheta-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/marathi-pheta-in-mumbai",
+      "dataRoute": "/marathi-pheta-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/maroon-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/maroon-safa-in-mumbai",
+      "dataRoute": "/maroon-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/marwari-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/marwari-safa-in-mumbai",
+      "dataRoute": "/marwari-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/mehendi-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/mehendi-safa-in-mumbai",
+      "dataRoute": "/mehendi-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/mehndi-function-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/mehndi-function-safa-in-mumbai",
+      "dataRoute": "/mehndi-function-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/modern-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/modern-safa-in-mumbai",
+      "dataRoute": "/modern-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/mulund-safa-service": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/mulund-safa-service",
+      "dataRoute": "/mulund-safa-service.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/mumbai-airport-turban-service": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/mumbai-airport-turban-service",
+      "dataRoute": "/mumbai-airport-turban-service.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/mundan-ceremony-turban-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/mundan-ceremony-turban-in-mumbai",
+      "dataRoute": "/mundan-ceremony-turban-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/navi-mumbai-safa-service": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/navi-mumbai-safa-service",
+      "dataRoute": "/navi-mumbai-safa-service.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/navratri-turban-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/navratri-turban-in-mumbai",
+      "dataRoute": "/navratri-turban-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/nerul-safa-service": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/nerul-safa-service",
+      "dataRoute": "/nerul-safa-service.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/nri-wedding-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/nri-wedding-safa-in-mumbai",
+      "dataRoute": "/nri-wedding-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/orange-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/orange-safa-in-mumbai",
+      "dataRoute": "/orange-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/pagadi-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/pagadi-in-mumbai",
+      "dataRoute": "/pagadi-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/pagdi-bandhai-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/pagdi-bandhai-in-mumbai",
+      "dataRoute": "/pagdi-bandhai-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/pagdi-for-groom-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/pagdi-for-groom-in-mumbai",
+      "dataRoute": "/pagdi-for-groom-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/pagdi-for-wedding-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/pagdi-for-wedding-in-mumbai",
+      "dataRoute": "/pagdi-for-wedding-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/pagdi-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/pagdi-in-mumbai",
+      "dataRoute": "/pagdi-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/pagdi-rental-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/pagdi-rental-in-mumbai",
+      "dataRoute": "/pagdi-rental-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/pagdi-wala-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/pagdi-wala-in-mumbai",
+      "dataRoute": "/pagdi-wala-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1327,7 +2152,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/premium-groom-turban-service-jaipur": {
+    "/paghdi-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1340,8 +2165,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/premium-groom-turban-service-jaipur",
-      "dataRoute": "/premium-groom-turban-service-jaipur.rsc",
+      "srcRoute": "/paghdi-in-mumbai",
+      "dataRoute": "/paghdi-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1352,7 +2177,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/professional-safa-service-bapu-nagar-jaipur": {
+    "/pagri-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1365,8 +2190,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/professional-safa-service-bapu-nagar-jaipur",
-      "dataRoute": "/professional-safa-service-bapu-nagar-jaipur.rsc",
+      "srcRoute": "/pagri-in-mumbai",
+      "dataRoute": "/pagri-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1377,7 +2202,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/professional-turban-artist-jaipur": {
+    "/panvel-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1390,8 +2215,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/professional-turban-artist-jaipur",
-      "dataRoute": "/professional-turban-artist-jaipur.rsc",
+      "srcRoute": "/panvel-safa-service",
+      "dataRoute": "/panvel-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1402,7 +2227,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/punjabi-turban-tying-jaipur": {
+    "/parel-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1415,8 +2240,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/punjabi-turban-tying-jaipur",
-      "dataRoute": "/punjabi-turban-tying-jaipur.rsc",
+      "srcRoute": "/parel-safa-service",
+      "dataRoute": "/parel-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1427,7 +2252,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/quick-turban-tying-service-jaipur": {
+    "/peach-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1440,8 +2265,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/quick-turban-tying-service-jaipur",
-      "dataRoute": "/quick-turban-tying-service-jaipur.rsc",
+      "srcRoute": "/peach-safa-in-mumbai",
+      "dataRoute": "/peach-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1452,7 +2277,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/rajasthani-heritage-turban-tying-jaipur": {
+    "/phera-ceremony-turban-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1465,8 +2290,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/rajasthani-heritage-turban-tying-jaipur",
-      "dataRoute": "/rajasthani-heritage-turban-tying-jaipur.rsc",
+      "srcRoute": "/phera-ceremony-turban-in-mumbai",
+      "dataRoute": "/phera-ceremony-turban-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1477,7 +2302,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/rajasthani-turban-tying-jaipur": {
+    "/pheta-tying-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1490,8 +2315,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/rajasthani-turban-tying-jaipur",
-      "dataRoute": "/rajasthani-turban-tying-jaipur.rsc",
+      "srcRoute": "/pheta-tying-in-mumbai",
+      "dataRoute": "/pheta-tying-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1502,7 +2327,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/rajputi-pagdi-for-groom-jaipur": {
+    "/photo-shoot-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1515,8 +2340,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/rajputi-pagdi-for-groom-jaipur",
-      "dataRoute": "/rajputi-pagdi-for-groom-jaipur.rsc",
+      "srcRoute": "/photo-shoot-safa-in-mumbai",
+      "dataRoute": "/photo-shoot-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1527,7 +2352,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/reception-turban-tying-jaipur": {
+    "/pink-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1540,8 +2365,183 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/reception-turban-tying-jaipur",
-      "dataRoute": "/reception-turban-tying-jaipur.rsc",
+      "srcRoute": "/pink-safa-in-mumbai",
+      "dataRoute": "/pink-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/powai-safa-service": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/powai-safa-service",
+      "dataRoute": "/powai-safa-service.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/premium-wedding-safa-for-international-groom": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/premium-wedding-safa-for-international-groom",
+      "dataRoute": "/premium-wedding-safa-for-international-groom.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/punjabi-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/punjabi-safa-in-mumbai",
+      "dataRoute": "/punjabi-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/purple-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/purple-safa-in-mumbai",
+      "dataRoute": "/purple-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/rajasthani-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/rajasthani-safa-in-mumbai",
+      "dataRoute": "/rajasthani-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/reception-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/reception-safa-in-mumbai",
+      "dataRoute": "/reception-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/red-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/red-safa-in-mumbai",
+      "dataRoute": "/red-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1582,7 +2582,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/royal-rajwadi-safa-tying-jaipur": {
+    "/royal-groom-turban-for-destination-wedding": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1595,8 +2595,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/royal-rajwadi-safa-tying-jaipur",
-      "dataRoute": "/royal-rajwadi-safa-tying-jaipur.rsc",
+      "srcRoute": "/royal-groom-turban-for-destination-wedding",
+      "dataRoute": "/royal-groom-turban-for-destination-wedding.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1607,7 +2607,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/royal-safa-shyam-nagar-location": {
+    "/royal-wedding-turban-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1620,8 +2620,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/royal-safa-shyam-nagar-location",
-      "dataRoute": "/royal-safa-shyam-nagar-location.rsc",
+      "srcRoute": "/royal-wedding-turban-in-mumbai",
+      "dataRoute": "/royal-wedding-turban-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1632,7 +2632,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/royal-turban-bani-park-location": {
+    "/safa-bandhai-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1645,8 +2645,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/royal-turban-bani-park-location",
-      "dataRoute": "/royal-turban-bani-park-location.rsc",
+      "srcRoute": "/safa-bandhai-in-mumbai",
+      "dataRoute": "/safa-bandhai-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1657,7 +2657,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/royal-wedding-safa-jaipur": {
+    "/safa-for-groom-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1670,8 +2670,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/royal-wedding-safa-jaipur",
-      "dataRoute": "/royal-wedding-safa-jaipur.rsc",
+      "srcRoute": "/safa-for-groom-in-mumbai",
+      "dataRoute": "/safa-for-groom-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1682,7 +2682,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/safa-near-bijnor-road-location": {
+    "/safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1695,8 +2695,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/safa-near-bijnor-road-location",
-      "dataRoute": "/safa-near-bijnor-road-location.rsc",
+      "srcRoute": "/safa-in-mumbai",
+      "dataRoute": "/safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1707,7 +2707,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/safa-pagdi-on-rent-jaipur": {
+    "/safa-on-rent-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1720,8 +2720,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/safa-pagdi-on-rent-jaipur",
-      "dataRoute": "/safa-pagdi-on-rent-jaipur.rsc",
+      "srcRoute": "/safa-on-rent-in-mumbai",
+      "dataRoute": "/safa-on-rent-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1732,7 +2732,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/safa-pagdi-tying-wedding-jaipur": {
+    "/safa-pagdi-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1745,8 +2745,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/safa-pagdi-tying-wedding-jaipur",
-      "dataRoute": "/safa-pagdi-tying-wedding-jaipur.rsc",
+      "srcRoute": "/safa-pagdi-in-mumbai",
+      "dataRoute": "/safa-pagdi-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1757,7 +2757,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/safa-service-ajmer-road-location": {
+    "/safa-price-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1770,8 +2770,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/safa-service-ajmer-road-location",
-      "dataRoute": "/safa-service-ajmer-road-location.rsc",
+      "srcRoute": "/safa-price-in-mumbai",
+      "dataRoute": "/safa-price-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1782,7 +2782,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/safa-tying-at-venue-jaipur": {
+    "/safa-shop-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1795,8 +2795,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/safa-tying-at-venue-jaipur",
-      "dataRoute": "/safa-tying-at-venue-jaipur.rsc",
+      "srcRoute": "/safa-shop-in-mumbai",
+      "dataRoute": "/safa-shop-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1807,7 +2807,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/safa-tying-bapu-nagar-location": {
+    "/safa-shop-near-me-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1820,8 +2820,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/safa-tying-bapu-nagar-location",
-      "dataRoute": "/safa-tying-bapu-nagar-location.rsc",
+      "srcRoute": "/safa-shop-near-me-in-mumbai",
+      "dataRoute": "/safa-shop-near-me-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1832,7 +2832,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/safa-tying-brahampuri-jaipur": {
+    "/safa-tying-service-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1845,8 +2845,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/safa-tying-brahampuri-jaipur",
-      "dataRoute": "/safa-tying-brahampuri-jaipur.rsc",
+      "srcRoute": "/safa-tying-service-in-mumbai",
+      "dataRoute": "/safa-tying-service-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1857,7 +2857,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/safa-tying-c-scheme-jaipur": {
+    "/safa-wala-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1870,8 +2870,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/safa-tying-c-scheme-jaipur",
-      "dataRoute": "/safa-tying-c-scheme-jaipur.rsc",
+      "srcRoute": "/safa-wala-in-mumbai",
+      "dataRoute": "/safa-wala-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1882,7 +2882,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/safa-tying-c-scheme-location": {
+    "/same-day-safa-service-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1895,8 +2895,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/safa-tying-c-scheme-location",
-      "dataRoute": "/safa-tying-c-scheme-location.rsc",
+      "srcRoute": "/same-day-safa-service-in-mumbai",
+      "dataRoute": "/same-day-safa-service-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1907,7 +2907,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/safa-tying-kotla-house-jaipur": {
+    "/sangeet-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1920,8 +2920,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/safa-tying-kotla-house-jaipur",
-      "dataRoute": "/safa-tying-kotla-house-jaipur.rsc",
+      "srcRoute": "/sangeet-safa-in-mumbai",
+      "dataRoute": "/sangeet-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1932,7 +2932,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/safa-wala-ram-nagar-location": {
+    "/santacruz-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1945,8 +2945,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/safa-wala-ram-nagar-location",
-      "dataRoute": "/safa-wala-ram-nagar-location.rsc",
+      "srcRoute": "/santacruz-safa-service",
+      "dataRoute": "/santacruz-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1957,7 +2957,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/sehra-and-pagdi-for-groom-jaipur": {
+    "/satin-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1970,8 +2970,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/sehra-and-pagdi-for-groom-jaipur",
-      "dataRoute": "/sehra-and-pagdi-for-groom-jaipur.rsc",
+      "srcRoute": "/satin-safa-in-mumbai",
+      "dataRoute": "/satin-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -1982,7 +2982,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/sherwani-safa-turban-jaipur": {
+    "/sehra-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -1995,8 +2995,158 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/sherwani-safa-turban-jaipur",
-      "dataRoute": "/sherwani-safa-turban-jaipur.rsc",
+      "srcRoute": "/sehra-in-mumbai",
+      "dataRoute": "/sehra-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/sehra-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/sehra-safa-in-mumbai",
+      "dataRoute": "/sehra-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/sherwani-matching-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/sherwani-matching-safa-in-mumbai",
+      "dataRoute": "/sherwani-matching-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/sikh-turban-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/sikh-turban-in-mumbai",
+      "dataRoute": "/sikh-turban-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/silk-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/silk-safa-in-mumbai",
+      "dataRoute": "/silk-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/silver-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/silver-safa-in-mumbai",
+      "dataRoute": "/silver-safa-in-mumbai.rsc",
+      "prefetchDataRoute": null,
+      "allowHeader": [
+        "host",
+        "x-matched-path",
+        "x-prerender-revalidate",
+        "x-prerender-revalidate-if-generated",
+        "x-next-revalidated-tags",
+        "x-next-revalidate-tag-token"
+      ]
+    },
+    "/sindhi-safa-in-mumbai": {
+      "experimentalBypassFor": [
+        {
+          "type": "header",
+          "key": "next-action"
+        },
+        {
+          "type": "header",
+          "key": "content-type",
+          "value": "multipart/form-data;.*"
+        }
+      ],
+      "initialRevalidateSeconds": false,
+      "srcRoute": "/sindhi-safa-in-mumbai",
+      "dataRoute": "/sindhi-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2037,7 +3187,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/traditional-rajasthani-pagri-jaipur": {
+    "/south-mumbai-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2050,8 +3200,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/traditional-rajasthani-pagri-jaipur",
-      "dataRoute": "/traditional-rajasthani-pagri-jaipur.rsc",
+      "srcRoute": "/south-mumbai-safa-service",
+      "dataRoute": "/south-mumbai-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2062,7 +3212,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/turban-artist-ambedkar-circle-jaipur": {
+    "/thane-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2075,8 +3225,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/turban-artist-ambedkar-circle-jaipur",
-      "dataRoute": "/turban-artist-ambedkar-circle-jaipur.rsc",
+      "srcRoute": "/thane-safa-service",
+      "dataRoute": "/thane-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2087,7 +3237,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/turban-artist-subhash-nagar-jaipur": {
+    "/tilak-ceremony-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2100,8 +3250,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/turban-artist-subhash-nagar-jaipur",
-      "dataRoute": "/turban-artist-subhash-nagar-jaipur.rsc",
+      "srcRoute": "/tilak-ceremony-safa-in-mumbai",
+      "dataRoute": "/tilak-ceremony-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2112,7 +3262,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/turban-near-jln-marg-location": {
+    "/traditional-indian-wedding-turban-for-groom": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2125,8 +3275,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/turban-near-jln-marg-location",
-      "dataRoute": "/turban-near-jln-marg-location.rsc",
+      "srcRoute": "/traditional-indian-wedding-turban-for-groom",
+      "dataRoute": "/traditional-indian-wedding-turban-for-groom.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2137,7 +3287,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/turban-rental-with-tying-service-jaipur": {
+    "/traditional-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2150,8 +3300,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/turban-rental-with-tying-service-jaipur",
-      "dataRoute": "/turban-rental-with-tying-service-jaipur.rsc",
+      "srcRoute": "/traditional-safa-in-mumbai",
+      "dataRoute": "/traditional-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2162,7 +3312,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/turban-service-ramganj-location": {
+    "/turban-for-groom-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2175,8 +3325,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/turban-service-ramganj-location",
-      "dataRoute": "/turban-service-ramganj-location.rsc",
+      "srcRoute": "/turban-for-groom-in-mumbai",
+      "dataRoute": "/turban-for-groom-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2187,7 +3337,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/turban-service-sawai-ram-singh-road-jaipur": {
+    "/turban-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2200,8 +3350,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/turban-service-sawai-ram-singh-road-jaipur",
-      "dataRoute": "/turban-service-sawai-ram-singh-road-jaipur.rsc",
+      "srcRoute": "/turban-in-mumbai",
+      "dataRoute": "/turban-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2212,7 +3362,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/turban-tying-ashok-nagar-location": {
+    "/turban-rental-near-me-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2225,8 +3375,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/turban-tying-ashok-nagar-location",
-      "dataRoute": "/turban-tying-ashok-nagar-location.rsc",
+      "srcRoute": "/turban-rental-near-me-in-mumbai",
+      "dataRoute": "/turban-rental-near-me-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2237,7 +3387,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/turban-tying-bahubali-location": {
+    "/turban-tying-service-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2250,8 +3400,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/turban-tying-bahubali-location",
-      "dataRoute": "/turban-tying-bahubali-location.rsc",
+      "srcRoute": "/turban-tying-service-in-mumbai",
+      "dataRoute": "/turban-tying-service-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2262,7 +3412,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/turban-tying-for-destination-wedding-jaipur": {
+    "/uncle-turban-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2275,8 +3425,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/turban-tying-for-destination-wedding-jaipur",
-      "dataRoute": "/turban-tying-for-destination-wedding-jaipur.rsc",
+      "srcRoute": "/uncle-turban-in-mumbai",
+      "dataRoute": "/uncle-turban-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2287,7 +3437,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/turban-tying-jagatpura-location": {
+    "/vashi-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2300,8 +3450,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/turban-tying-jagatpura-location",
-      "dataRoute": "/turban-tying-jagatpura-location.rsc",
+      "srcRoute": "/vashi-safa-service",
+      "dataRoute": "/vashi-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2312,7 +3462,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/turban-tying-mansarovar-jaipur": {
+    "/velvet-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2325,8 +3475,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/turban-tying-mansarovar-jaipur",
-      "dataRoute": "/turban-tying-mansarovar-jaipur.rsc",
+      "srcRoute": "/velvet-safa-in-mumbai",
+      "dataRoute": "/velvet-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2337,7 +3487,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/turban-tying-services-in-jaipur": {
+    "/vidai-turban-service-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2350,8 +3500,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/turban-tying-services-in-jaipur",
-      "dataRoute": "/turban-tying-services-in-jaipur.rsc",
+      "srcRoute": "/vidai-turban-service-in-mumbai",
+      "dataRoute": "/vidai-turban-service-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2362,7 +3512,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/turban-tying-services-jaipur": {
+    "/vile-parle-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2375,8 +3525,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/turban-tying-services-jaipur",
-      "dataRoute": "/turban-tying-services-jaipur.rsc",
+      "srcRoute": "/vile-parle-safa-service",
+      "dataRoute": "/vile-parle-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2387,7 +3537,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/wedding-feta-tying-service-jaipur": {
+    "/wedding-pagdi-for-destination-wedding": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2400,8 +3550,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-feta-tying-service-jaipur",
-      "dataRoute": "/wedding-feta-tying-service-jaipur.rsc",
+      "srcRoute": "/wedding-pagdi-for-destination-wedding",
+      "dataRoute": "/wedding-pagdi-for-destination-wedding.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2412,7 +3562,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/wedding-groom-styling-jaipur": {
+    "/wedding-pagdi-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2425,8 +3575,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-groom-styling-jaipur",
-      "dataRoute": "/wedding-groom-styling-jaipur.rsc",
+      "srcRoute": "/wedding-pagdi-in-mumbai",
+      "dataRoute": "/wedding-pagdi-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2437,7 +3587,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/wedding-pagdi-adarsh-nagar-jaipur": {
+    "/wedding-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2450,8 +3600,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-pagdi-adarsh-nagar-jaipur",
-      "dataRoute": "/wedding-pagdi-adarsh-nagar-jaipur.rsc",
+      "srcRoute": "/wedding-safa-in-mumbai",
+      "dataRoute": "/wedding-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2462,7 +3612,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/wedding-pagdi-civil-lines-location": {
+    "/wedding-safa-tying-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2475,8 +3625,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-pagdi-civil-lines-location",
-      "dataRoute": "/wedding-pagdi-civil-lines-location.rsc",
+      "srcRoute": "/wedding-safa-tying-in-mumbai",
+      "dataRoute": "/wedding-safa-tying-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2487,7 +3637,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/wedding-pagdi-pal-road-location": {
+    "/white-safa-in-mumbai": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2500,8 +3650,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-pagdi-pal-road-location",
-      "dataRoute": "/wedding-pagdi-pal-road-location.rsc",
+      "srcRoute": "/white-safa-in-mumbai",
+      "dataRoute": "/white-safa-in-mumbai.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2512,7 +3662,7 @@
         "x-next-revalidate-tag-token"
       ]
     },
-    "/wedding-pagdi-service-near-me-jaipur": {
+    "/worli-safa-service": {
       "experimentalBypassFor": [
         {
           "type": "header",
@@ -2525,283 +3675,8 @@
         }
       ],
       "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-pagdi-service-near-me-jaipur",
-      "dataRoute": "/wedding-pagdi-service-near-me-jaipur.rsc",
-      "prefetchDataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/wedding-safa-expert-gopal-pura-jaipur": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-safa-expert-gopal-pura-jaipur",
-      "dataRoute": "/wedding-safa-expert-gopal-pura-jaipur.rsc",
-      "prefetchDataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/wedding-safa-niwaru-road-location": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-safa-niwaru-road-location",
-      "dataRoute": "/wedding-safa-niwaru-road-location.rsc",
-      "prefetchDataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/wedding-safa-sanganer-location": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-safa-sanganer-location",
-      "dataRoute": "/wedding-safa-sanganer-location.rsc",
-      "prefetchDataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/wedding-safa-tying-in-jaipur": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-safa-tying-in-jaipur",
-      "dataRoute": "/wedding-safa-tying-in-jaipur.rsc",
-      "prefetchDataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/wedding-safa-wala-in-jaipur": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-safa-wala-in-jaipur",
-      "dataRoute": "/wedding-safa-wala-in-jaipur.rsc",
-      "prefetchDataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/wedding-safa-wala-jaipur": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-safa-wala-jaipur",
-      "dataRoute": "/wedding-safa-wala-jaipur.rsc",
-      "prefetchDataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/wedding-safa-with-tying-service-jaipur": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-safa-with-tying-service-jaipur",
-      "dataRoute": "/wedding-safa-with-tying-service-jaipur.rsc",
-      "prefetchDataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/wedding-turban-expert-laxmi-nagar-jaipur": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-turban-expert-laxmi-nagar-jaipur",
-      "dataRoute": "/wedding-turban-expert-laxmi-nagar-jaipur.rsc",
-      "prefetchDataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/wedding-turban-mansarovar-location": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-turban-mansarovar-location",
-      "dataRoute": "/wedding-turban-mansarovar-location.rsc",
-      "prefetchDataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/wedding-turban-styling-services-jaipur": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-turban-styling-services-jaipur",
-      "dataRoute": "/wedding-turban-styling-services-jaipur.rsc",
-      "prefetchDataRoute": null,
-      "allowHeader": [
-        "host",
-        "x-matched-path",
-        "x-prerender-revalidate",
-        "x-prerender-revalidate-if-generated",
-        "x-next-revalidated-tags",
-        "x-next-revalidate-tag-token"
-      ]
-    },
-    "/wedding-turban-tying-vaishali-nagar-jaipur": {
-      "experimentalBypassFor": [
-        {
-          "type": "header",
-          "key": "next-action"
-        },
-        {
-          "type": "header",
-          "key": "content-type",
-          "value": "multipart/form-data;.*"
-        }
-      ],
-      "initialRevalidateSeconds": false,
-      "srcRoute": "/wedding-turban-tying-vaishali-nagar-jaipur",
-      "dataRoute": "/wedding-turban-tying-vaishali-nagar-jaipur.rsc",
+      "srcRoute": "/worli-safa-service",
+      "dataRoute": "/worli-safa-service.rsc",
       "prefetchDataRoute": null,
       "allowHeader": [
         "host",
@@ -2816,8 +3691,8 @@
   "dynamicRoutes": {},
   "notFoundRoutes": [],
   "preview": {
-    "previewModeId": "f10f32596f1719fd8e8bccf4e95442b4",
-    "previewModeSigningKey": "b21da89fd7c8d6e924292e140c3f899c7ea6e864d08c9ad90f73d82b396c1c22",
-    "previewModeEncryptionKey": "e0a9b1841232dd2f2ea81122bed2f9e7f896aee6cf361b074a06a660dcca1855"
+    "previewModeId": "10f7aa4eb15e78f6ace4a04bf5a9b98e",
+    "previewModeSigningKey": "665212aeae6c1f1b044f3c1461244d567576c37b15f83fbc515997e15d017c06",
+    "previewModeEncryptionKey": "ec9733f7eb52ed81a827b0d9af8c2239d2a8a15d49493da4aab837625b953970"
   }
 }

@@ -19,6 +19,6 @@ export default function robots(): MetadataRoute.Robots {
         crawlDelay: 0.5,
       },
     ],
-    sitemap: 'https://safawala.com/sitemap.xml',
+    sitemap: 'https://safawalamumbai.com/sitemap.xml',
   }
 }

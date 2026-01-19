@@ -10,12 +10,12 @@ const MUMBAI_AREAS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Vidai Turban Service Mumbai | Bride Farewell Safa | Safawala Mumbai",
-  description: "Emotional vidai turban service Mumbai by Safawala Mumbai. Special safas for the bride's farewell ceremony. Perfect vidai turban service Mumbai for this important ritual. Book today!",
-  keywords: "vidai turban service mumbai, vidai safa mumbai, bride farewell turban, vidai ceremony pagdi, bidai safa mumbai",
+  title: "Vidai Turban Service in Mumbai | Bride Farewell Ceremony Safa | Safawala Mumbai",
+  description: "Emotional vidai turban service in Mumbai by Safawala Mumbai. Special safas for the bride's farewell ceremony at venues across South Mumbai, Bandra, Juhu, Andheri, Thane & Navi Mumbai. Book today!",
+  keywords: "vidai turban service in mumbai, bride farewell safa mumbai, vidai ceremony turban, bidai safa service, wedding farewell pagdi",
   openGraph: {
-    title: "Vidai Turban Service Mumbai | Bride Farewell Safa | Safawala Mumbai",
-    description: "Emotional vidai turban service Mumbai by Safawala Mumbai.",
+    title: "Vidai Turban Service in Mumbai | Bride Farewell Ceremony Safa | Safawala Mumbai",
+    description: "Emotional vidai turban service in Mumbai - special safas for the bride's farewell ceremony across Mumbai.",
     url: "https://safawalamumbai.com/vidai-turban-service-in-mumbai",
     type: "website",
   },

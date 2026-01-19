@@ -10,12 +10,12 @@ const MUMBAI_AREAS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Phera Ceremony Turban Mumbai | Wedding Phera Safa | Safawala Mumbai",
-  description: "Sacred phera ceremony turban Mumbai by Safawala Mumbai. Traditional safa for the seven pheras ritual. Quality phera ceremony turban Mumbai for the main wedding ritual. Book today!",
-  keywords: "phera ceremony turban mumbai, phera safa mumbai, seven pheras turban, wedding ceremony pagdi, saat phera safa mumbai",
+  title: "Phera Ceremony Turban in Mumbai | Saat Phere Wedding Safa | Safawala Mumbai",
+  description: "Sacred phera ceremony turban in Mumbai by Safawala Mumbai. Traditional safa for the seven pheras ritual at wedding mandaps across South Mumbai, Bandra, Juhu, Thane & Navi Mumbai. Book your wedding turban!",
+  keywords: "phera ceremony turban in mumbai, saat phere safa mumbai, seven pheras turban, wedding mandap safa, main ceremony turban service",
   openGraph: {
-    title: "Phera Ceremony Turban Mumbai | Wedding Phera Safa | Safawala Mumbai",
-    description: "Sacred phera ceremony turban Mumbai by Safawala Mumbai.",
+    title: "Phera Ceremony Turban in Mumbai | Saat Phere Wedding Safa | Safawala Mumbai",
+    description: "Sacred phera ceremony turban in Mumbai - traditional safa for the main wedding ritual at venues across Mumbai.",
     url: "https://safawalamumbai.com/phera-ceremony-turban-in-mumbai",
     type: "website",
   },

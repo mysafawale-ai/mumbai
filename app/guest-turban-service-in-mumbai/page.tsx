@@ -10,12 +10,12 @@ const MUMBAI_AREAS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Guest Turban Service Mumbai | Wedding Guest Safa | Safawala Mumbai",
-  description: "Professional guest turban service Mumbai by Safawala Mumbai. Quick safa tying for all wedding guests. Quality guest turban service Mumbai for baarat. Book today!",
-  keywords: "guest turban service mumbai, wedding guest safa, guest safa mumbai, baarat guest turban, bulk turban service mumbai",
+  title: "Guest Turban Service in Mumbai | Bulk Baraati Safa Tying | Safawala Mumbai",
+  description: "Professional guest turban service in Mumbai by Safawala Mumbai. Quick safa tying for 50-500+ baraatis at venues in Bandra, Juhu, Andheri, Powai, Thane & across Mumbai. Bulk booking discounts available!",
+  keywords: "guest turban service in mumbai, baraati safa tying mumbai, bulk turban service, wedding guest safa mumbai, group safa booking",
   openGraph: {
-    title: "Guest Turban Service Mumbai | Wedding Guest Safa | Safawala Mumbai",
-    description: "Professional guest turban service Mumbai by Safawala Mumbai.",
+    title: "Guest Turban Service in Mumbai | Bulk Baraati Safa Tying | Safawala Mumbai",
+    description: "Professional guest turban service in Mumbai - quick safa tying for all baraatis across Mumbai venues.",
     url: "https://safawalamumbai.com/guest-turban-service-in-mumbai",
     type: "website",
   },

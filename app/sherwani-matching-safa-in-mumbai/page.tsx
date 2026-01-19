@@ -10,12 +10,12 @@ const MUMBAI_AREAS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Sherwani Matching Safa Mumbai | Coordinated Turban | Safawala Mumbai",
-  description: "Perfect sherwani matching safa Mumbai by Safawala Mumbai. Coordinated turban with your sherwani. Quality sherwani matching safa Mumbai for complete look. Book today!",
-  keywords: "sherwani matching safa mumbai, coordinated turban mumbai, matching pagdi mumbai, sherwani turban set, groom coordination mumbai",
+  title: "Sherwani Matching Safa in Mumbai | Coordinated Groom Turban | Safawala Mumbai",
+  description: "Perfect sherwani matching safa in Mumbai by Safawala Mumbai. Expert color coordination to match your sherwani perfectly. Available across Bandra, Juhu, South Mumbai, Powai & Navi Mumbai. Complete your groom look!",
+  keywords: "sherwani matching safa in mumbai, coordinated turban service, groom safa matching, color coordinated pagdi mumbai, sherwani turban set",
   openGraph: {
-    title: "Sherwani Matching Safa Mumbai | Coordinated Turban | Safawala Mumbai",
-    description: "Perfect sherwani matching safa Mumbai by Safawala Mumbai.",
+    title: "Sherwani Matching Safa in Mumbai | Coordinated Groom Turban | Safawala Mumbai",
+    description: "Perfect sherwani matching safa in Mumbai - expert color coordination for your complete groom look.",
     url: "https://safawalamumbai.com/sherwani-matching-safa-in-mumbai",
     type: "website",
   },

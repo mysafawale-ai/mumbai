@@ -10,12 +10,12 @@ const MUMBAI_AREAS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Corporate Event Turban Mumbai | Business Turban Service | Safawala Mumbai",
-  description: "Professional corporate event turban Mumbai by Safawala Mumbai. Traditional turbans for corporate functions. Quality corporate event turban Mumbai for business occasions. Book today!",
-  keywords: "corporate event turban mumbai, business turban service, corporate safa mumbai, office event pagdi, professional turban mumbai",
+  title: "Corporate Event Turban in Mumbai | Business Function Safa Service | Safawala Mumbai",
+  description: "Professional corporate event turban in Mumbai by Safawala Mumbai. Traditional turbans for business functions, annual days & cultural events at BKC, Nariman Point, Lower Parel & across Mumbai. Book now!",
+  keywords: "corporate event turban in mumbai, business function safa, corporate cultural event turban, office event pagdi mumbai, professional turban service",
   openGraph: {
-    title: "Corporate Event Turban Mumbai | Business Turban Service | Safawala Mumbai",
-    description: "Professional corporate event turban Mumbai by Safawala Mumbai.",
+    title: "Corporate Event Turban in Mumbai | Business Function Safa Service | Safawala Mumbai",
+    description: "Professional corporate event turban in Mumbai - traditional turbans for business functions across all Mumbai areas.",
     url: "https://safawalamumbai.com/corporate-event-turban-in-mumbai",
     type: "website",
   },

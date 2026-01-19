@@ -10,12 +10,12 @@ const MUMBAI_AREAS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Uncle Turban in Mumbai | Chacha Mama Safa | Safawala Mumbai",
-  description: "Respectful uncle turban in Mumbai by Safawala Mumbai. Safa for chacha, mama, and uncles. Premium uncle turban in Mumbai for family weddings. Book today!",
-  keywords: "uncle turban in mumbai, chacha safa mumbai, mama turban mumbai, uncle wedding pagdi, family elder turban",
+  title: "Uncle Turban in Mumbai | Chacha Mama Safa Service | Safawala Mumbai",
+  description: "Respectful uncle turban in Mumbai by Safawala Mumbai. Distinguished safa for chacha, mama, fufa & all uncles at weddings. Service available in Bandra, Andheri, Juhu, South Mumbai, Powai, Thane & Navi Mumbai. Book now!",
+  keywords: "uncle turban in mumbai, chacha safa service mumbai, mama turban service, family elder pagdi, uncle wedding safa mumbai",
   openGraph: {
-    title: "Uncle Turban in Mumbai | Chacha Mama Safa | Safawala Mumbai",
-    description: "Respectful uncle turban in Mumbai by Safawala Mumbai.",
+    title: "Uncle Turban in Mumbai | Chacha Mama Safa Service | Safawala Mumbai",
+    description: "Respectful uncle turban in Mumbai - distinguished safa for family elders at weddings across all Mumbai areas.",
     url: "https://safawalamumbai.com/uncle-turban-in-mumbai",
     type: "website",
   },

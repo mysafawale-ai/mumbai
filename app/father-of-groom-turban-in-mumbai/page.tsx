@@ -10,12 +10,12 @@ const MUMBAI_AREAS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Father of Groom Turban Mumbai | FOG Safa Service | Safawala Mumbai",
-  description: "Distinguished father of groom turban Mumbai by Safawala Mumbai. Special turban for proud fathers. Quality father of groom turban Mumbai for this important role. Book today!",
-  keywords: "father of groom turban mumbai, fog safa mumbai, groom father pagdi, distinguished turban mumbai, family turban service",
+  title: "Father of Groom Turban in Mumbai | Distinguished Safa for Proud Fathers | Safawala Mumbai",
+  description: "Premium father of groom turban in Mumbai by Safawala Mumbai. Distinguished safa for proud fathers at weddings in South Mumbai, Bandra, Powai, Thane & Navi Mumbai. Honor this special role. Book now!",
+  keywords: "father of groom turban in mumbai, fog safa service mumbai, groom father pagdi, distinguished turban service, family turban mumbai",
   openGraph: {
-    title: "Father of Groom Turban Mumbai | FOG Safa Service | Safawala Mumbai",
-    description: "Distinguished father of groom turban Mumbai by Safawala Mumbai.",
+    title: "Father of Groom Turban in Mumbai | Distinguished Safa for Proud Fathers | Safawala Mumbai",
+    description: "Distinguished father of groom turban in Mumbai - premium safa service for proud fathers across all Mumbai areas.",
     url: "https://safawalamumbai.com/father-of-groom-turban-in-mumbai",
     type: "website",
   },

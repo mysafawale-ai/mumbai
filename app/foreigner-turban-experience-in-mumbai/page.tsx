@@ -10,12 +10,12 @@ const MUMBAI_AREAS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Foreigner Turban Experience Mumbai | Tourist Turban | Safawala Mumbai",
-  description: "Authentic foreigner turban experience Mumbai by Safawala Mumbai. Traditional Indian turban for tourists. Unique foreigner turban experience Mumbai cultural activity. Book today!",
-  keywords: "foreigner turban experience mumbai, tourist turban mumbai, indian turban for foreigners, turban experience mumbai, cultural turban activity",
+  title: "Foreigner Turban Experience in Mumbai | Tourist Turban Tying | Safawala Mumbai",
+  description: "Authentic foreigner turban experience in Mumbai by Safawala Mumbai. Traditional Indian turban tying for tourists & international guests near Gateway of India, Colaba, Bandra & across Mumbai. Memorable cultural experience!",
+  keywords: "foreigner turban experience in mumbai, tourist turban tying mumbai, indian turban for foreigners, cultural turban activity, turban for international guests",
   openGraph: {
-    title: "Foreigner Turban Experience Mumbai | Tourist Turban | Safawala Mumbai",
-    description: "Authentic foreigner turban experience Mumbai by Safawala Mumbai.",
+    title: "Foreigner Turban Experience in Mumbai | Tourist Turban Tying | Safawala Mumbai",
+    description: "Authentic foreigner turban experience in Mumbai - traditional Indian turban for tourists and international guests.",
     url: "https://safawalamumbai.com/foreigner-turban-experience-in-mumbai",
     type: "website",
   },

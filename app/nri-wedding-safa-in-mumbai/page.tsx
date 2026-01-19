@@ -10,12 +10,12 @@ const MUMBAI_AREAS = [
 ]
 
 export const metadata: Metadata = {
-  title: "NRI Wedding Safa in Mumbai | Turban Service for NRI Grooms | Safawala Mumbai",
-  description: "Specialized NRI wedding safa in Mumbai by Safawala Mumbai. Turban service for NRI grooms & families. Premium NRI wedding safa in Mumbai with international-standard service. Book NRI wedding today!",
-  keywords: "nri wedding safa in mumbai, nri safa mumbai, nri groom turban mumbai, overseas indian wedding safa mumbai, nri wedding turban mumbai",
+  title: "NRI Wedding Safa in Mumbai | Premium Turban for Overseas Indian Grooms | Safawala Mumbai",
+  description: "Specialized NRI wedding safa in Mumbai by Safawala Mumbai. Premium turban service for NRI grooms & families at 5-star venues in South Mumbai, Bandra, Juhu, Powai & Navi Mumbai. International-standard service. Book now!",
+  keywords: "nri wedding safa in mumbai, nri groom turban service, overseas indian wedding safa, nri family turban mumbai, usa uk nri wedding safa",
   openGraph: {
-    title: "NRI Wedding Safa in Mumbai | Turban Service for NRI Grooms | Safawala Mumbai",
-    description: "Specialized NRI wedding safa in Mumbai for overseas Indian grooms and families.",
+    title: "NRI Wedding Safa in Mumbai | Premium Turban for Overseas Indian Grooms | Safawala Mumbai",
+    description: "Specialized NRI wedding safa in Mumbai - premium turban service for overseas Indian grooms at top Mumbai venues.",
     url: "https://safawalamumbai.com/nri-wedding-safa-in-mumbai",
     type: "website",
   },

@@ -10,12 +10,12 @@ const MUMBAI_AREAS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Tilak Ceremony Safa Mumbai | Roka Turban Tying | Safawala Mumbai",
-  description: "Traditional tilak ceremony safa Mumbai by Safawala Mumbai. Professional turban tying for tilak and roka. Quality tilak ceremony safa Mumbai for pre-wedding rituals. Book today!",
-  keywords: "tilak ceremony safa mumbai, tilak turban mumbai, roka safa mumbai, engagement turban mumbai, pre wedding safa service",
+  title: "Tilak Ceremony Safa in Mumbai | Roka Function Turban Service | Safawala Mumbai",
+  description: "Traditional tilak ceremony safa in Mumbai by Safawala Mumbai. Professional turban tying for tilak, roka & engagement functions at venues in Bandra, Andheri, Powai, Thane & across Mumbai. Book now!",
+  keywords: "tilak ceremony safa in mumbai, roka turban service mumbai, tilak function pagdi, engagement safa mumbai, pre-wedding turban service",
   openGraph: {
-    title: "Tilak Ceremony Safa Mumbai | Roka Turban Tying | Safawala Mumbai",
-    description: "Traditional tilak ceremony safa Mumbai by Safawala Mumbai.",
+    title: "Tilak Ceremony Safa in Mumbai | Roka Function Turban Service | Safawala Mumbai",
+    description: "Traditional tilak ceremony safa in Mumbai - professional turban tying for pre-wedding rituals across Mumbai.",
     url: "https://safawalamumbai.com/tilak-ceremony-safa-in-mumbai",
     type: "website",
   },

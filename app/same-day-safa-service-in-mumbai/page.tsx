@@ -10,12 +10,12 @@ const MUMBAI_AREAS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Same Day Safa Service Mumbai | Urgent Turban Tying | Safawala Mumbai",
-  description: "Quick same day safa service Mumbai by Safawala Mumbai. Emergency turban tying on short notice. Reliable same day safa service Mumbai for urgent needs. Call today!",
-  keywords: "same day safa service mumbai, urgent turban tying, emergency safa mumbai, last minute turban, quick safa service mumbai",
+  title: "Same Day Safa Service in Mumbai | Urgent Turban Tying | Safawala Mumbai",
+  description: "Quick same day safa service in Mumbai by Safawala Mumbai. Emergency turban tying available across Bandra, Andheri, Juhu, South Mumbai, Powai, Thane & Navi Mumbai. Last-minute bookings welcome. Call now!",
+  keywords: "same day safa service in mumbai, urgent turban tying mumbai, emergency safa service, last minute turban mumbai, quick safa booking",
   openGraph: {
-    title: "Same Day Safa Service Mumbai | Urgent Turban Tying | Safawala Mumbai",
-    description: "Quick same day safa service Mumbai by Safawala Mumbai.",
+    title: "Same Day Safa Service in Mumbai | Urgent Turban Tying | Safawala Mumbai",
+    description: "Quick same day safa service in Mumbai - emergency turban tying available across all Mumbai areas.",
     url: "https://safawalamumbai.com/same-day-safa-service-in-mumbai",
     type: "website",
   },

@@ -10,12 +10,12 @@ const MUMBAI_AREAS = [
 ]
 
 export const metadata: Metadata = {
-  title: "Brother of Groom Safa Mumbai | Groom Brother Turban | Safawala Mumbai",
-  description: "Stylish brother of groom safa Mumbai by Safawala Mumbai. Special turban for groom's brothers. Quality brother of groom safa Mumbai for wedding party. Book today!",
-  keywords: "brother of groom safa mumbai, groom brother turban, sibling turban mumbai, wedding party safa, family safa mumbai",
+  title: "Brother of Groom Safa in Mumbai | Groom Brother Turban Service | Safawala Mumbai",
+  description: "Stylish brother of groom safa in Mumbai by Safawala Mumbai. Special coordinated turbans for groom's brothers in Bandra, Andheri, Juhu & all Mumbai areas. Make the wedding party look distinguished. Book today!",
+  keywords: "brother of groom safa in mumbai, groom brother turban mumbai, sibling turban service, wedding party safa mumbai, family matching safa",
   openGraph: {
-    title: "Brother of Groom Safa Mumbai | Groom Brother Turban | Safawala Mumbai",
-    description: "Stylish brother of groom safa Mumbai by Safawala Mumbai.",
+    title: "Brother of Groom Safa in Mumbai | Groom Brother Turban Service | Safawala Mumbai",
+    description: "Stylish brother of groom safa in Mumbai - coordinated turbans for the wedding party across all Mumbai areas.",
     url: "https://safawalamumbai.com/brother-of-groom-safa-in-mumbai",
     type: "website",
   },
